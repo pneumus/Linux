@@ -1,21 +1,10 @@
 # Desktop Environment - Basic Installation Guide
 
-## Install & Customize KDE
-
-Install the Bare Minimum for KDE
-
-    pacman -S --noconfirm xorg xorg-xinit xorg-server plasma-desktop plasma-workspace xorg-xwayland plasma-nm plasma-pa konsole sddm sddm-kcm 
-  
-Enable Display Manager & NetworkManager
-
-    systemctl enable sddm
-    systemctl enable NetworkManager
-    exit
-    reboot
+## Customize KDE
 
 Install Basic Tools
 
-    sudo pacman -S --noconfirm usbutils git base-devel openssh wget vi less
+    sudo pacman -S --noconfirm usbutils git base-devel openssh wget vi less ufw cmake
 
 Install Desktop Apps
 
