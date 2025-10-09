@@ -4,7 +4,12 @@
 
 Install Basic Tools
 
-    sudo pacman -S --noconfirm usbutils git base-devel openssh wget vi less ufw cmake
+    sudo pacman -S --noconfirm usbutils git base-devel openssh wget vi less cmake
+
+Install and Configure Uncomplicated Firewall
+
+    sudo pacman -S ufw
+    sudo systemctl enable --now ufw
 
 Install Desktop Apps
 
