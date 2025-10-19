@@ -19,15 +19,16 @@ LC_ALL=C lscpu | grep Virtualization
 &nbsp;&nbsp;
 ##### Get your GPU PCI ID
 - Print your Video Card Details
-#### lspci -nn | grep -i vga
+    ```sh
+  lspci -nn | grep -i vga
+    ```   
     
 - You can find the PCI ID in the brackets:
 <img width="1128" height="35" alt="image" src="https://github.com/user-attachments/assets/fcbbbc6f-25cb-42bb-85d7-7feec603776d" />
 - In a typical case there is an integrated Video Card ( Intel ) and one with dedicated memory ( Nvidia )
 PCI ID of the Nvidia Card:
-    ```sh
-  10de:2560
-    ```   
+#### 10de:2560
+   
 
 &nbsp;&nbsp;
 ##### Update your System
