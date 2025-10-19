@@ -22,21 +22,19 @@ LC_ALL=C lscpu | grep Virtualization
     ```sh
   lspci -nn | grep -i vga
     ```   
+- You can find the PCI ID in the brackets:
+<img width="1128" height="35" alt="image" src="https://github.com/user-attachments/assets/fcbbbc6f-25cb-42bb-85d7-7feec603776d" />
+- In a typical case there is an integrated Video Card ( Intel ) and one with dedicated memory ( Nvidia )
+PCI ID of the Nvidia Card: <b>10de:2560</b>
 
 &nbsp;&nbsp;
 ##### Get the VFIO PCI ID of the Sound Card
 - Print your Video Card Details
     ```sh
   lspci -nn | grep -i audio
-    ```   
+    ```
+- PCI IDs are in the brackets
 <img width="1224" height="34" alt="image" src="https://github.com/user-attachments/assets/59c156c3-1a48-455a-a406-ef5d721cd3d9" />
-
-
-- You can find the PCI ID in the brackets:
-<img width="1128" height="35" alt="image" src="https://github.com/user-attachments/assets/fcbbbc6f-25cb-42bb-85d7-7feec603776d" />
-- In a typical case there is an integrated Video Card ( Intel ) and one with dedicated memory ( Nvidia )
-PCI ID of the Nvidia Card: <b>10de:2560</b>
-   
 
 &nbsp;&nbsp;
 ##### Update your System
