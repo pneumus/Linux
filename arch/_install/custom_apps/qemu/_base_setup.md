@@ -28,8 +28,8 @@ LC_ALL=C lscpu | grep Virtualization
 - In a typical case there is an integrated Video Card ( Intel ) and one with dedicated memory ( Nvidia )
 PCI ID of the Nvidia Card:
     ```sh
-    10de:2560
-    ```
+  10de:2560
+    ```   
 
 &nbsp;&nbsp;
 ##### Update your System
