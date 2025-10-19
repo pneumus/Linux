@@ -10,11 +10,21 @@ LC_ALL=C lscpu | grep Virtualization
 
 &nbsp;&nbsp;
 ##### Enable Virtualization in BIOS ( UEFI )
-- Print your motherboard details
+- Print your Motherboard Details
     ```sh
   cat /sys/devices/virtual/dmi/id/board_{vendor,name,version}
     ```   
 - Based on the details, google how to enable Virtualization in BIOS ( UEFI ) and enable it
+
+&nbsp;&nbsp;
+##### Get your GPU PCI ID
+- Print your Video Card Details
+    ```sh
+  lspci -nn | grep -i vga
+    ```
+- You can find the PCI ID in the brackets:
+<img width="1128" height="35" alt="image" src="https://github.com/user-attachments/assets/fcbbbc6f-25cb-42bb-85d7-7feec603776d" />
+
 
 &nbsp;&nbsp;
 ##### Update your System
