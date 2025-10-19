@@ -19,8 +19,9 @@ LC_ALL=C lscpu | grep Virtualization
 &nbsp;&nbsp;
 ##### Get your GPU PCI ID
 - Print your Video Card Details
-###### lspci -nn | grep -i vga
-
+    ```sh
+  lspci -nn | grep -i vga
+    ```   
     
 - You can find the PCI ID in the brackets:
 <img width="1128" height="35" alt="image" src="https://github.com/user-attachments/assets/fcbbbc6f-25cb-42bb-85d7-7feec603776d" />
