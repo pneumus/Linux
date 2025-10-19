@@ -26,7 +26,7 @@ LC_ALL=C lscpu | grep Virtualization
 - You can find the PCI ID in the brackets:
 <img width="1128" height="35" alt="image" src="https://github.com/user-attachments/assets/fcbbbc6f-25cb-42bb-85d7-7feec603776d" />
 - In a typical case there is an integrated Video Card ( Intel ) and one with dedicated memory ( Nvidia )
-PCI ID of the Nvidia Card: 10de:2560
+PCI ID of the Nvidia Card: <b>10de:2560</b>
    
 
 &nbsp;&nbsp;
