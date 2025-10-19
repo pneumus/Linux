@@ -35,6 +35,8 @@ PCI ID of the Nvidia Card: <b>10de:2560</b>
     ```
 - PCI IDs are in the brackets
 <img width="1224" height="34" alt="image" src="https://github.com/user-attachments/assets/59c156c3-1a48-455a-a406-ef5d721cd3d9" />
+- Use the Nvidia Audio Card to separate Sound Output:
+10de:228e
 
 &nbsp;&nbsp;
 ##### Update your System
