@@ -29,7 +29,7 @@ PCI ID of the Nvidia Card: <b>10de:2560</b>
 
 &nbsp;&nbsp;
 ##### Get the VFIO PCI ID of the Sound Card
-- Print your Video Card Details
+- Print your Audio Card Details
     ```sh
   lspci -nn | grep -i audio
     ```
@@ -49,6 +49,7 @@ sudo pacman -Syyu
 ```
 pacman -S qemu-full virt-manager virt-viewer dnsmasq 
 pacman -S bridge-utils libguestfs ebtables vde2 openbsd-netcat
+sudo pacman -S qemu libvirt edk2-ovmf virt-manager dnsmasq bridge-utils
 ```
 
 &nbsp;&nbsp;
