@@ -98,8 +98,7 @@ sudo virsh net-list --all
 efibootmgr
 ```
 Expected output:
-<img width="1377" height="244" alt="image" src="https://github.com/user-attachments/assets/2137335f-9128-4028-8b64-05ba819e4466" />
-
+<img width="1377" height="241" alt="image" src="https://github.com/user-attachments/assets/49bd4e78-dc0e-4736-9061-a28a17c5f1fd" />
 
 &nbsp;&nbsp;
 ##### Open the Virtual Machine Manager
