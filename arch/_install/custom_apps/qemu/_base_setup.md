@@ -115,6 +115,15 @@ sudo efibootmgr -b 0000 -B
 ```
 
 &nbsp;&nbsp;
+##### Recreate the Bootloader Entry with Intel IOMMU Params
+```sh
+sudo efibootmgr -c -d /dev/sda -p 1 \
+-L "Arch Linux (IOMMU)" \
+-l "\vmlinuz-linux" \
+-u "initrd=/initramfs-linux.img root=PARTUUID=7ff26c23-b644-4221-a813-3ffe9e6f3e52 zswap.enabled=0 rw rootfstype=xfs intel_iommu=on iommu=pt"
+```
+
+&nbsp;&nbsp;
 ##### Open the Virtual Machine Manager
 ```sh
 virt-manager
