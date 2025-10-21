@@ -102,11 +102,11 @@ Expected output:
 
 
 &nbsp;&nbsp;
-##### Extract current Bootloader Parameters ( Example )
-&nbsp;Partition GUID: a39033ee-7127-4290-8f1f-61e9b998ec14
-&nbsp;Root Partition UUID (from parameter): 7ff26c23-b644-4221-a813-3ffe9e6f3e52
-&nbsp;Boot Arguments: initrd=/initramfs-linux.img root=PARTUUID=7ff26c23-b644-4221-a813-3ffe9e6f3e52 zswap.enabled=0 rw rootfstype=xfs
-&nbsp;Boot Loader: \vmlinuz-linux
+##### Extract current Bootloader Parameters ( Example )   
+&nbsp;Partition GUID: a39033ee-7127-4290-8f1f-61e9b998ec14   
+&nbsp;Root Partition UUID (from parameter): 7ff26c23-b644-4221-a813-3ffe9e6f3e52   
+&nbsp;Boot Arguments: initrd=/initramfs-linux.img root=PARTUUID=7ff26c23-b644-4221-a813-3ffe9e6f3e52 zswap.enabled=0 rw rootfstype=xfs   
+&nbsp;Boot Loader: \vmlinuz-linux   
 
 &nbsp;&nbsp;
 ##### Open the Virtual Machine Manager
