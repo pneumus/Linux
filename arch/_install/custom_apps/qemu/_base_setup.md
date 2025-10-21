@@ -135,6 +135,10 @@ sudo efibootmgr -c -d /dev/nvme0n1 -p 1 \
 ```
 
 &nbsp;&nbsp;
+##### Verify the new Boot Loader Entry and Reboot
+<img width="1385" height="277" alt="image" src="https://github.com/user-attachments/assets/69350702-fa7a-4205-aed3-3926afa86d5e" />
+
+&nbsp;&nbsp;
 ##### Open the Virtual Machine Manager
 ```sh
 virt-manager
