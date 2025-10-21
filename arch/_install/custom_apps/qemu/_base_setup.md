@@ -47,9 +47,12 @@ sudo pacman -Syyu
 &nbsp;&nbsp;
 ##### Install Prerequisites
 ```
-pacman -S qemu-full virt-manager virt-viewer dnsmasq 
-pacman -S bridge-utils libguestfs ebtables vde2 openbsd-netcat
-sudo pacman -S qemu libvirt edk2-ovmf virt-manager dnsmasq bridge-utils
+sudo pacman -S --noconfirm qemu
+sudo pacman -S --noconfirm libvirt
+sudo pacman -S --noconfirm edk2-ovmf
+sudo pacman -S --noconfirm virt-manager
+sudo pacman -S --noconfirm dnsmasq
+sudo pacman -S --noconfirm bridge-utils
 ```
 
 &nbsp;&nbsp;
