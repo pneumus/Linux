@@ -100,6 +100,14 @@ efibootmgr
 Expected output:
 <img width="1377" height="241" alt="image" src="https://github.com/user-attachments/assets/49bd4e78-dc0e-4736-9061-a28a17c5f1fd" />
 
+
+&nbsp;&nbsp;
+##### Extract current Bootloader Parameters ( Example )
+Partition GUID: a39033ee-7127-4290-8f1f-61e9b998ec14
+Root Partition UUID (from parameter): 7ff26c23-b644-4221-a813-3ffe9e6f3e52
+Boot Arguments: initrd=/initramfs-linux.img root=PARTUUID=7ff26c23-b644-4221-a813-3ffe9e6f3e52 zswap.enabled=0 rw rootfstype=xfs
+Boot Loader: \vmlinuz-linux
+
 &nbsp;&nbsp;
 ##### Open the Virtual Machine Manager
 ```sh
