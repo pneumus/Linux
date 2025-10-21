@@ -47,7 +47,7 @@ sudo pacman -Syyu
 &nbsp;&nbsp;
 ##### Install Prerequisites
 ```
-sudo pacman -S --noconfirm qemu
+sudo pacman -S --noconfirm qemu-base
 sudo pacman -S --noconfirm libvirt
 sudo pacman -S --noconfirm edk2-ovmf
 sudo pacman -S --noconfirm virt-manager
