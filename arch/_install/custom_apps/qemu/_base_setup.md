@@ -102,11 +102,17 @@ Expected output:
 
 
 &nbsp;&nbsp;
-##### Extract current Bootloader Parameters ( Example )   
+##### Extract current Bootloader Parameters ( Example ) for Arch Linux ( 0000 in the Example )
 <b>Partition GUID:</b> a39033ee-7127-4290-8f1f-61e9b998ec14   
 <b>Root Partition UUID (from parameter):</b> 7ff26c23-b644-4221-a813-3ffe9e6f3e52   
 <b>Boot Arguments:</b> initrd=/initramfs-linux.img root=PARTUUID=7ff26c23-b644-4221-a813-3ffe9e6f3e52 zswap.enabled=0 rw rootfstype=xfs   
 <b>Boot Loader:</b> \vmlinuz-linux   
+
+&nbsp;&nbsp;
+##### Delete the old Bootloader Entry ( 0000 in the Example )
+```sh
+sudo efibootmgr -b 0000 -B
+```
 
 &nbsp;&nbsp;
 ##### Open the Virtual Machine Manager
