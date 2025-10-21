@@ -93,6 +93,15 @@ sudo virsh net-list --all
 ```
 
 &nbsp;&nbsp;
+##### Get the details of your Bootloader ( Efistub )
+```sh
+efibootmgr
+```
+Expected output:
+<img width="1377" height="244" alt="image" src="https://github.com/user-attachments/assets/2137335f-9128-4028-8b64-05ba819e4466" />
+
+
+&nbsp;&nbsp;
 ##### Open the Virtual Machine Manager
 ```sh
 virt-manager
