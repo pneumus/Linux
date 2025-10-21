@@ -93,6 +93,17 @@ sudo virsh net-list --all
 ```
 
 &nbsp;&nbsp;
+##### Get the EFI System Partition
+```sh
+lsblk -f
+```
+<img width="1058" height="179" alt="image" src="https://github.com/user-attachments/assets/fd7579d5-dd0e-4696-a4b0-cb58b75ac0ed" />
+Device: /dev/nvme0n1   
+Partition Number: 1 (specifically /dev/nvme0n1p1)   
+Filesystem: vfat   
+Mountpoint: /boot   
+
+&nbsp;&nbsp;
 ##### Get the details of your Bootloader ( Efistub )
 ```sh
 efibootmgr
