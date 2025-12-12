@@ -4,7 +4,7 @@
 
 <details>
   <summary>ls - List Files & Directories</summary>
-```
-This is a bash code
-```
+  ```   
+  This is a bash code   
+  ```   
 </details>
