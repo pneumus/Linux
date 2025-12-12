@@ -5,8 +5,9 @@
 <details>
   <summary>ls - List Contents of a Directory</summary>
   &nbsp;   
-  
-  List all files, links and directories ( including the hidden ones )   
+
+  ## ls -a
+  The -a switch will list all files, links and directories ( including the hidden ones )   
   Note: Folders and files are hidden if their name begisn with a dot ( i.e. .bashrc )
   ```   
   [mateo@archipelago ~]$ ls -a
