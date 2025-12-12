@@ -3,7 +3,7 @@
 
 
 <details>
-  <summary>## ls - List Files & Directories</summary>
+  <summary>ls - List Files & Directories</summary>
 ```
 This is a bash code
 ```
