@@ -7,7 +7,7 @@
   &nbsp;   
 
   ## ls -a
-  The -a switch will list all files, links and directories ( including the hidden ones )   
+  The <b>-a</b> switch will list all files, links and directories ( including the hidden ones )   
   Note: Folders and files are hidden if their name begisn with a dot ( i.e. .bashrc )
   ```   
   [mateo@archipelago ~]$ ls -a
