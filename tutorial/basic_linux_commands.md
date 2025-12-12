@@ -5,9 +5,7 @@
 <details>
   <summary>ls - List Content of a Directory</summary>
 
-  ## ls -a 
   List all files, links and directories ( including the hidden ones )
-  
   ```   
   [mateo@archipelago ~]$ ls -a
 .   .bash_history  .bash_profile  .cache   Desktop    Downloads   .icons  .mozilla  Pictures  Templates  Videos
