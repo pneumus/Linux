@@ -4,7 +4,8 @@
 
 <details>
   <summary>ls - List Content of a Directory</summary>
-  &nbsp;
+  &nbsp;   
+  
   List all files, links and directories ( including the hidden ones )
   ```   
   [mateo@archipelago ~]$ ls -a
