@@ -3,7 +3,7 @@
 
 
 <details>
-  <summary>ls - List Content of a Directory</summary>
+  <summary>ls - List Contents of a Directory</summary>
   &nbsp;   
   
   List all files, links and directories ( including the hidden ones )   
