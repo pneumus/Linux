@@ -13,4 +13,7 @@
 ..  .bash_logout   .bashrc        .config  Documents  .gtkrc-2.0  .local  Music     Public    .var       yay
   ```   
 
+  List elements with different colors
+  <img width="1540" height="88" alt="image" src="https://github.com/user-attachments/assets/aff715bd-4584-4785-ac18-c280a397210c" />
+
 </details>
