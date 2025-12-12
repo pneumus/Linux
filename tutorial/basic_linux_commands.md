@@ -7,6 +7,7 @@
   &nbsp;   
   
   List all files, links and directories ( including the hidden ones )
+  Note: Folders and files are hidden if their name begisn with a dot ( i.e. .bashrc )
   ```   
   [mateo@archipelago ~]$ ls -a
 .   .bash_history  .bash_profile  .cache   Desktop    Downloads   .icons  .mozilla  Pictures  Templates  Videos
