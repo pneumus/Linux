@@ -8,7 +8,7 @@
 
   ## ls -a
   The <b>-a</b> switch will list all files, links and directories ( including the hidden ones )   
-  <b>Note:</b> Folders and files are hidden if their name begisn with a dot ( i.e. .bashrc )
+  <b>Note:</b> Folders and files are hidden if their name begins with a dot ( i.e. .bashrc )
   ```   
   [mateo@archipelago ~]$ ls -a
 .   .bash_history  .bash_profile  .cache   Desktop    Downloads   .icons  .mozilla  Pictures  Templates  Videos
@@ -16,8 +16,8 @@
   ```   
 
   ## ls -l
-  The <b>-l</b> switch will list all attributes.
-  <b>Note:</b> 
+  The <b>-l</b> switch will list all attributes.   
+  <b>Note:</b>    
 
   &nbsp;   
   ## ls --color
