@@ -15,6 +15,10 @@
 ..  .bash_logout   .bashrc        .config  Documents  .gtkrc-2.0  .local  Music     Public    .var       yay
   ```   
 
+  ## ls -l
+  The <b>-l</b> switch will list all attributes.
+  <b>Note:</b> 
+
   &nbsp;   
   ## ls --color
   The <b>--color</b> switch will list elements with different colors   
