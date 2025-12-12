@@ -3,8 +3,13 @@
 
 
 <details>
-  <summary>ls - List Files & Directories</summary>
+  <summary>ls - List Content of a Directory</summary>
+
+  ## ls -a 
+  List all files, links and directories ( including the hidden ones )
+  
   ```   
-  This is a bash code   
+  ls -hal
   ```   
+
 </details>
