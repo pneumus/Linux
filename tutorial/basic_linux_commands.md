@@ -14,6 +14,7 @@
   ```   
 
   List elements with different colors
-  <img width="1540" height="88" alt="image" src="https://github.com/user-attachments/assets/aff715bd-4584-4785-ac18-c280a397210c" />
+  <img width="1545" height="84" alt="image" src="https://github.com/user-attachments/assets/6785788d-5446-4c9a-83ba-1f8954740fe9" />
+
 
 </details>
