@@ -15,12 +15,7 @@
 
   ## ls -a
   The <b>-a</b> switch will list all files, links and directories ( including the hidden ones )   
-  <b>Note:</b> 
-  In the below sample, there are following colors:
-
-  - blue: folder
-  - cyan ( light blue ): symbolic link
-  - white: file
+  <b>Note:</b> Hidden Files and Folders have a dot ( . ) as a Starting Character
 
   ```   
   [mateo@archipelago ~]$ ls -a
@@ -31,9 +26,11 @@
   ## ls --color
   The <b>--color</b> switch will list elements with different colors   
   <b>Note:</b> This is a built-in ( aliased ) functionality in most modern distros.   
-  Colors in the sample below:
-  - white:
-  - blue:
+  In the below sample, there are following colors:
+
+  - blue: folder
+  - cyan ( light blue ): symbolic link
+  - white: file
   &nbsp; <img width="1385" height="52" alt="image" src="https://github.com/user-attachments/assets/7d66c9c4-e7c8-4d98-afcd-b57303e27041" />
 
   ## ls -l
