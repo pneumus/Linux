@@ -4,7 +4,11 @@
   <summary>⭐ F.U.C.K - Frequently Used Commands in Konsole</summary>
   &nbsp;   
 
-  ## history - See Command History
+  <details>
+  <summary>history - See Command History</summary>
+  &nbsp;  
+    
+  ## 
   ```
   history
   ```   
