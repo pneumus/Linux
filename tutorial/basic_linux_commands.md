@@ -2,7 +2,7 @@
 
 <details>
   <summary>⭐ F.U.C.K - Frequently Used Commands in Konsole</summary>
-  &nbsp;   
+  &nbsp;&nbsp;&nbsp;   
 
   <details>
   <summary>history - See Command History</summary>
@@ -19,6 +19,7 @@
   ```   
   </details>
 
+  &nbsp;&nbsp;&nbsp;   
 </details>
 
 
