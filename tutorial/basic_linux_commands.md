@@ -12,7 +12,13 @@
 
   ## ls -a
   The <b>-a</b> switch will list all files, links and directories ( including the hidden ones )   
-  <b>Note:</b> Folders and files are hidden if their name begins with a dot ( i.e. .bashrc )
+  <b>Note:</b> 
+  In the below sample, there are following colors:
+
+  - blue: folder
+  - cyan ( light blue ): symbolic link
+  - white: file
+
   ```   
   [mateo@archipelago ~]$ ls -a
 .   .bash_history  .bash_profile  .cache   Desktop    Downloads   .icons  .mozilla  Pictures  Templates  Videos
