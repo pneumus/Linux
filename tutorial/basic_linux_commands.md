@@ -25,14 +25,6 @@
 ..  .bash_logout   .bashrc        .config  Documents  .gtkrc-2.0  .local  Music     Public    .var       yay
   ```   
 
-  ## ls -l
-  The <b>-l</b> switch will list all attributes.   
-  <b>Note:</b>    
-
-  ## ls -h
-  The <b>-h</b> switch will print file sizes in a human readable format   
-  
-  &nbsp;   
   ## ls --color
   The <b>--color</b> switch will list elements with different colors   
   <b>Note:</b> This is a built-in ( aliased ) functionality in most modern distros.   
@@ -41,6 +33,13 @@
   - blue:
   &nbsp; <img width="1385" height="52" alt="image" src="https://github.com/user-attachments/assets/7d66c9c4-e7c8-4d98-afcd-b57303e27041" />
 
+  ## ls -l
+  The <b>-l</b> switch will list all attributes.   
+  <b>Note:</b>    
+
+  ## ls -h
+  The <b>-h</b> switch will print file sizes in a human readable format   
+  
 
 </details>
 
