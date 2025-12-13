@@ -1,7 +1,7 @@
 # Basic Linux Commands
 
 <details>
-  <summary>⭐ F.U.C.K - Frequently Used Commands in Konsole</summary>
+  <summary>⭐ F.U.C.K. - Frequently Used Commands in Konsole</summary>
   &nbsp;&nbsp;&nbsp;   
 
   <details>
