@@ -8,7 +8,7 @@
   <summary>history - See Command History</summary>
   &nbsp;  
     
-  ## 
+  ## List Command History
   ```
   history
   ```   
