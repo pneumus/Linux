@@ -85,9 +85,8 @@
 
 </details>
   
-</details>
-
 &nbsp; &nbsp; &nbsp; 
+</details>
 
 
 <details>
