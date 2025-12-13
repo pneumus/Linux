@@ -1,13 +1,12 @@
 # Basic Linux Commands
 
 
-
+<div style="margin-left: 40px;">
 <details>
   <summary>File & Directory Management</summary>
   &nbsp;   
 
 
-<div style="margin-left: 40px;">
 <details>
   <summary>ls - List Contents of a Directory</summary>
   &nbsp;   
@@ -34,7 +33,7 @@
   <b>Note:</b> This is a built-in ( aliased ) functionality in most modern distros.   
   Folders are blue, files are white in the sample below:     
   &nbsp; <img width="1545" height="84" alt="image" src="https://github.com/user-attachments/assets/6785788d-5446-4c9a-83ba-1f8954740fe9" />
-
+</details>
 
 </details>
 </div>
