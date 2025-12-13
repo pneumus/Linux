@@ -3,7 +3,21 @@
 <details>
   <summary>⭐ F.U.C.K - Frequently Used Commands in Konsole</summary>
   &nbsp;   
+
+  ## history - See Command History
+  ```
+  history
+  ```   
+
+  ## history -d - Delete Entry from Command History
+  ```
+  history -d 4
+  ```   
+
+
 </details>
+
+
 
 <details>
   <summary>📁 File & Directory Management</summary>
