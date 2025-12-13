@@ -30,7 +30,7 @@
 
   - blue: folder
   - cyan ( light blue ): symbolic link
-  - white: file
+  - white: file   
   &nbsp; <img width="1385" height="52" alt="image" src="https://github.com/user-attachments/assets/7d66c9c4-e7c8-4d98-afcd-b57303e27041" />
 
   ## ls -l
