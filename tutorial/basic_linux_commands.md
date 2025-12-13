@@ -17,7 +17,7 @@
   ```
   history -d 4
   ```   
-
+  </details>
 
 </details>
 
