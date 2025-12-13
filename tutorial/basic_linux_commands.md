@@ -15,7 +15,7 @@
 
   ## ls -a
   The <b>-a</b> switch will list all entries ( including the hidden ones )   
-  <b>Note:</b> Hidden Files and Folders have a dot ( . ) as a Starting Character
+  <b>Note:</b> Hidden Entries have a dot ( . ) as a Starting Character
 
   ```   
   [mateo@archipelago ~]$ ls -a
