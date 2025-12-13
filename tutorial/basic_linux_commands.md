@@ -33,7 +33,7 @@
   &nbsp;   
 
   ## ls -a
-  The <b>-a</b> switch stands for all entries ( including the hidden ones )   
+  The <b>-a</b> switch stands for <b>A</b>ll Entries ( including the hidden ones )   
   <b>Note:</b> Hidden Entries have a dot ( . ) as a Starting Character
 
   ```   
