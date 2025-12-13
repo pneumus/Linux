@@ -19,6 +19,9 @@
   The <b>-l</b> switch will list all attributes.   
   <b>Note:</b>    
 
+  ## ls -h
+  The <b>-h</b> switch will print file sizes in a human readable format   
+  
   &nbsp;   
   ## ls --color
   The <b>--color</b> switch will list elements with different colors   
