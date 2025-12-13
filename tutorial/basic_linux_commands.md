@@ -31,3 +31,45 @@
 
 
 </details>
+
+<details>
+  <summary>pwd - Print Working Directory</summary>
+  &nbsp;   
+
+</details>
+
+
+<details>
+  <summary>cd - Change Directory</summary>
+  &nbsp;   
+
+</details>
+
+
+<details>
+  <summary>mkdir - Make Directory</summary>
+  &nbsp;   
+
+</details>
+
+
+<details>
+  <summary>mv - Move / Rename Files & Directories</summary>
+  &nbsp;   
+
+</details>
+
+
+<details>
+  <summary>cp - Copy Files & Directories</summary>
+  &nbsp;   
+
+</details>
+
+
+<details>
+  <summary>rm - Remove Files & Directories</summary>
+  &nbsp;   
+
+</details>
+
