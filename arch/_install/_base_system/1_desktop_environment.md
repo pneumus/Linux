@@ -2,6 +2,10 @@
 
 ## Customize KDE
 
+Disable Explicit Congestion Notification (ECN)
+
+    sysctl net.ipv4.tcp_ecn=0
+
 Install Basic Tools
 
     sudo pacman -S --noconfirm usbutils git base-devel openssh wget vi less cmake
