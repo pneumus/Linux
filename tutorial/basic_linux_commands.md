@@ -77,3 +77,41 @@
 </details>
   
 </details>
+
+
+
+
+<details>
+  <summary>File Search & Editing</summary>
+  &nbsp;   
+
+
+<details>
+  <summary>vi / vim - File Editor</summary>
+  &nbsp;   
+
+</details>
+
+
+<details>
+  <summary>nano - File Editor</summary>
+  &nbsp;   
+
+</details>
+
+
+<details>
+  <summary>find - Search Files</summary>
+  &nbsp;   
+
+</details>
+
+
+<details>
+  <summary>grep - Search & Filter Files</summary>
+  &nbsp;   
+
+</details>
+
+
+</details>
