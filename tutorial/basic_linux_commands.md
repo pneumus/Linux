@@ -9,7 +9,7 @@
 
 
 <details>
-  <summary>&emsp;ls - List Contents of a Directory</summary>
+&emsp;<summary>ls - List Contents of a Directory</summary>
   &nbsp;   
 
   ## ls -a
@@ -46,7 +46,7 @@
 
 
 <details>
-  &emsp;<summary>cd - Change Directory</summary>
+  <summary>cd - Change Directory</summary>
   &nbsp;   
 
 </details>
