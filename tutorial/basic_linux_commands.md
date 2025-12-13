@@ -7,7 +7,7 @@
 
 <details>
   <summary>📁 File & Directory Management</summary>
-  &nbsp;   
+  &nbsp; &nbsp; &nbsp;
 
 <details>
   <summary>ls - List Contents of a Directory</summary>
