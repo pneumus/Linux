@@ -40,7 +40,7 @@
   ## ls -h
   The <b>-h</b> switch will print file sizes in a human readable format   
   
-
+  
 </details>
 
 
@@ -87,7 +87,7 @@
   
 </details>
 
-
+&nbsp; &nbsp; &nbsp; 
 
 
 <details>
