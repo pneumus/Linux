@@ -2,7 +2,7 @@
 
 
 <details>
-  <summary>File & Directory Management</summary>
+  <summary>📁 File & Directory Management</summary>
   &nbsp;   
 
 <details>
