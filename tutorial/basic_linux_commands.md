@@ -95,7 +95,7 @@
 
 
 <details>
-  <summary>📝 File Search & Editing</summary>
+  <summary> 📝File Search & Editing</summary>
   &nbsp;   
 
 
