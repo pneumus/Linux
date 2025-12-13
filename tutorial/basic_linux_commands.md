@@ -25,7 +25,7 @@
 ..  .bash_logout   .bashrc        .config  Documents  .gtkrc-2.0  .local  Music     Public    .var       yay
   ```   
 
-  ## ls --color
+  <h2 style="color: blue">ls --color</h2>
   The <b>--color</b> switch will list elements with different colors   
   <b>Note:</b> This is a built-in ( aliased ) functionality in most modern distros.   
   Colors in the sample below:
