@@ -4,7 +4,7 @@
 
 Disable Explicit Congestion Notification (ECN)
 
-    sysctl net.ipv4.tcp_ecn=0
+    sudo sysctl net.ipv4.tcp_ecn=0
 
 Install Basic Tools
 
