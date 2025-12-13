@@ -36,7 +36,9 @@
   ## ls --color
   The <b>--color</b> switch will list elements with different colors   
   <b>Note:</b> This is a built-in ( aliased ) functionality in most modern distros.   
-  Folders are blue, files are white in the sample below:     
+  Colors in the sample below:
+  - white:
+  - blue:
   &nbsp; <img width="1385" height="52" alt="image" src="https://github.com/user-attachments/assets/7d66c9c4-e7c8-4d98-afcd-b57303e27041" />
 
 
