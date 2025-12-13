@@ -5,6 +5,9 @@
   <summary>File & Directory Management</summary>
   &nbsp;   
 
+<details>
+  <summary>F.U.C.K - Frequently Used Commands in Konsole</summary>
+  &nbsp;   
 
 <details>
   <summary>ls - List Contents of a Directory</summary>
