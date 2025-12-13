@@ -7,9 +7,9 @@
   &nbsp;   
 
 
-
+<div style="margin-left: 40px;">
 <details>
-&emsp;<summary>ls - List Contents of a Directory</summary>
+  <summary>ls - List Contents of a Directory</summary>
   &nbsp;   
 
   ## ls -a
@@ -37,6 +37,7 @@
 
 
 </details>
+</div>
 
 <details>
   <summary>pwd - Print Working Directory</summary>
