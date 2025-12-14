@@ -110,7 +110,7 @@
 
 
 <details>
-  <summary>📝 File Search & Editing</summary>
+  <summary>📝 Search & Edit Files</summary>
   &nbsp;   
 
 
