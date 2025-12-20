@@ -8,7 +8,7 @@ Disable Explicit Congestion Notification (ECN)
 
 Install Basic Tools
 
-    sudo pacman -S --noconfirm usbutils git base-devel openssh wget vi less cmake
+    sudo pacman -S --noconfirm usbutils git base-devel openssh wget vi less cmake rsync reflector
 
 Install and Configure Uncomplicated Firewall
 
