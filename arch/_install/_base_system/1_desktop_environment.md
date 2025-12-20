@@ -2,9 +2,16 @@
 
 ## Customize KDE
 
-Disable Explicit Congestion Notification (ECN)
+Network Configuration for the Wifi
 
+    # Disable ECN
     sudo sysctl net.ipv4.tcp_ecn=0
+    
+    # Disable IPv6
+    sudo sysctl -w net.ipv6.conf.all.disable_ipv6=1
+
+    # Disable Power Save
+    sudo iw dev wlan0 set power_save off
 
 Install Basic Tools
 
