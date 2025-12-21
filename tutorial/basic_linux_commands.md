@@ -32,7 +32,7 @@
   <summary>ls - List Contents of a Directory</summary>
   &nbsp;   
 
-  ### ${\color{lightgreen}\mathtt{ls \space -a}}$
+  ## ${\color{lightgreen}\mathtt{ls \space -a}}$
   The <b>-a</b> switch stands for <b>ALL</b> Entries ( including the hidden ones )   
   <b>Note:</b> Hidden Entries have a dot ( . ) as a Starting Character
 
@@ -42,7 +42,7 @@
 ..  .bash_logout   .bashrc        .config  Documents  .gtkrc-2.0  .local  Music     Public    .var       yay
   ```   
 
-  ## ls -l
+  ## ${\color{lightgreen}\mathtt{ls \space -l}}$
   The <b>-l</b> switch stands for <b>LONG</b> Listing with all Attributes.   
   <b>Note:</b> There are multiple columns listed here with different purpose.   
   The entry at the top "total 654910" tells what's the total size of the directory in kilobyte sized blocks.   
@@ -59,7 +59,7 @@
 
   <img width="938" height="287" alt="image" src="https://github.com/user-attachments/assets/c6878eba-276c-4c60-891b-8935763840d0" />
   
-  ## ls --color
+  ## ${\color{lightgreen}\mathtt{ls \space  --color}}$
   The <b>--color</b> switch will list elements with different colors   
   <b>Note:</b> This is a built-in ( aliased ) functionality in most modern distros. See: "alias" command!   
   In the below sample, there are following colors:
