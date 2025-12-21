@@ -78,7 +78,28 @@ and their <b>switches (flags)</b>, and <b>parameters (options)</b>
 <b>Note</b>: The Difference between <b>Modification Time (mtime)</b> and <b>Change Time (ctime)</b>   
 is that <b>mtime</b> will update only when the actual content of the file is changed   
 and <b>ctime</b> updates whenever the file's <b>inode</b> (metadata) changes   
-    
+
+  ## ${\color{lightgreen}\mathtt{ls \space\space -R}}$   
+  The <b>-R</b> Switch will list Files recursively:
+  In other words, it steps into every Subdirectory of every Subdirectory (maximum depth)
+
+  ### Example Folder Structure:
+
+Project_Root/
+├── documents/               (Depth 1)
+│   ├── reports/             (Depth 2)
+│   │   ├── annual_2024.pdf  (Depth 3)
+│   │   └── budget_v2.xlsx   (Depth 3)
+│   └── templates/           (Depth 2)
+│       └── header.png       (Depth 3)
+├── src/                     (Depth 1)
+│   ├── components/          (Depth 2)
+│   │   └── Navbar.js        (Depth 3)
+│   └── utils/               (Depth 2)
+│       └── helpers.js       (Depth 3)
+└── README.md                (Depth 1)
+  
+  
 </details>
 
 
