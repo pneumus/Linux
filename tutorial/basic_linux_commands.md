@@ -48,9 +48,11 @@ and their <b>switches (flags)</b>, and <b>parameters (options)</b>
   
   </details>
   
-  
-  
-  ## ${\color{lightgreen}\mathtt{ls \space\space\space --color}}$
+
+  <details>
+    <summary>${\color{lightgreen}\mathtt{ls \space\space\space --color}}$</summary>
+
+    
   The <b>--color</b> switch will list elements with different colors   
   <b>Note:</b> This is a built-in ( aliased ) functionality in most modern distros. See: "alias" command!   
   In the below sample, there are following colors:
@@ -59,7 +61,11 @@ and their <b>switches (flags)</b>, and <b>parameters (options)</b>
   - cyan ( light blue ): symbolic link
   - white: file   
   &nbsp; <img width="1385" height="52" alt="image" src="https://github.com/user-attachments/assets/7d66c9c4-e7c8-4d98-afcd-b57303e27041" />
-
+  
+    
+  </details>
+  
+  
 
   ## ${\color{lightgreen}\mathtt{ls \space\space -h}}$
   The <b>-h</b> switch will print file sizes in a <b>HUMAN</b> readable format   
