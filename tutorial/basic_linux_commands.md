@@ -59,7 +59,7 @@
 
   <img width="938" height="287" alt="image" src="https://github.com/user-attachments/assets/c6878eba-276c-4c60-891b-8935763840d0" />
   
-  ## ${\color{lightgreen}\mathtt{ls \space  --color}}$
+  ## ${\color{lightgreen}\mathtt{ls \space --color}}$
   The <b>--color</b> switch will list elements with different colors   
   <b>Note:</b> This is a built-in ( aliased ) functionality in most modern distros. See: "alias" command!   
   In the below sample, there are following colors:
@@ -70,7 +70,7 @@
   &nbsp; <img width="1385" height="52" alt="image" src="https://github.com/user-attachments/assets/7d66c9c4-e7c8-4d98-afcd-b57303e27041" />
 
 
-  ## ls -h
+  ## ${\color{lightgreen}\mathtt{ls \space -h}}$
   The <b>-h</b> switch will print file sizes in a human readable format   
   
   
