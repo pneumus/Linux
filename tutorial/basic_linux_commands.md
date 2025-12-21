@@ -85,7 +85,7 @@ and <b>ctime</b> updates whenever the file's <b>inode</b> (metadata) changes
 
   ### Example Folder Structure:
 
-  &nbsp; <img width="652" height="543" alt="image" src="https://github.com/user-attachments/assets/bc33349f-412b-4c5b-9e9c-410ee4f0586a" />
+  &nbsp; <img width="434" height="362" alt="image" src="https://github.com/user-attachments/assets/bc33349f-412b-4c5b-9e9c-410ee4f0586a" />
 
   
   
