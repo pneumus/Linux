@@ -4,30 +4,6 @@ This page is intended to describe and explain <b>Basic Linux Commands</b>
 and their <b>switches (flags)</b>, and <b>parameters (options)</b>   
 
 <details>
-  <summary>⭐ F.U.C.K. - Frequently Used Commands in Konsole</summary>
-  &nbsp;&nbsp;&nbsp;   
-
-  <details>
-  <summary>history - See Command History</summary>
-  &nbsp;  
-    
-  ## List Command History
-  ```
-  history
-  ```   
-
-  ## history -d - Delete Entry from Command History
-  ```
-  history -d 4
-  ```   
-  </details>
-
-  &nbsp;&nbsp;&nbsp;   
-</details>
-
-
-
-<details>
   <summary>📁 File & Directory Management</summary>
   &nbsp; &nbsp; &nbsp;
 
@@ -179,4 +155,26 @@ and their <b>switches (flags)</b>, and <b>parameters (options)</b>
 
 
 
+</details>
+
+<details>
+  <summary>⭐ F.U.C.K. - Frequently Used Commands in Konsole</summary>
+  &nbsp;&nbsp;&nbsp;   
+
+  <details>
+  <summary>history - See Command History</summary>
+  &nbsp;  
+    
+  ## List Command History
+  ```
+  history
+  ```   
+
+  ## history -d - Delete Entry from Command History
+  ```
+  history -d 4
+  ```   
+  </details>
+
+  &nbsp;&nbsp;&nbsp;   
 </details>
