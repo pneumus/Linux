@@ -58,7 +58,8 @@
   <b>  - Timestamp</b>: The date and time the file was last modified   
   <b>  - Name</b>: Name of the file / directory / link   
 
-  <img width="938" height="287" alt="image" src="https://github.com/user-attachments/assets/c6878eba-276c-4c60-891b-8935763840d0" />
+  <img width="943" height="328" alt="image" src="https://github.com/user-attachments/assets/1630db75-a250-4851-8ca9-64278f3cd306" />
+
   
   ## ${\color{lightgreen}\mathtt{ls \space\space --color}}$
   The <b>--color</b> switch will list elements with different colors   
