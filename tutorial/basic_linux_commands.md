@@ -45,6 +45,7 @@
   ## ls -l
   The <b>-l</b> switch stands for <b>L</b>ong Listing with all Attributes.   
   <b>Note:</b>
+  <img width="938" height="287" alt="image" src="https://github.com/user-attachments/assets/c6878eba-276c-4c60-891b-8935763840d0" />
   
   ## ls --color
   The <b>--color</b> switch will list elements with different colors   
