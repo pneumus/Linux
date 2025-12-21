@@ -44,10 +44,11 @@
 
   ## ${\color{lightgreen}\mathtt{ls \space\space -l}}$
   The <b>-l</b> switch stands for <b>LONG</b> Listing with all Attributes.   
-  <b>Note:</b> There are multiple columns listed here with different purpose.   
-  The entry at the top "total 654910" tells what's the total size of the directory in kilobyte sized blocks.   
+  <b>Note:</b> There are multiple columns listed here with different purpose.     
 
   <img width="943" height="328" alt="image" src="https://github.com/user-attachments/assets/1630db75-a250-4851-8ca9-64278f3cd306" />
+
+  The entry at the top "total 654910" tells what's the total size of the directory in kilobyte sized blocks. 
 
   ### Column Breakdown: ( From left to right )   
   <b>  - Permissions</b>:   
