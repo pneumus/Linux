@@ -65,7 +65,7 @@ and their <b>switches (flags)</b>, and <b>parameters (options)</b>
   ## ${\color{lightgreen}\mathtt{ls \space\space\space --sort}}$
   The <b>--sort</b> Option will sort files by the desired need   
   <b>Note</b>: If the Option is not specified, the <b>ls</b> Command will list alphabetically, by default   
-
+  Every Option has a corresponding Switch ( short version )
 
 | Option (Param) | Switch (Flag)  |
 | -------------  | -------------- |
