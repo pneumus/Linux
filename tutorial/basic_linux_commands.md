@@ -49,7 +49,7 @@
 
   ### Column Breakdown: ( From left to right )   
   <b>  - Permissions</b>:   
-  &ensp;&ensp;The first character shows the file type (- for file, d for directory, l for link)   
+  &ensp;&ensp;The first character shows the file type (<b>-</b> for file, <b>d</b> for directory, <b>l</b> for link)   
   &ensp;&ensp;The next 9 characters show read (r), write (w), and execute (x) permissions for the owner, group, and others   
   <b>  - Links</b>: The number of hard links to the file or directory   
   <b>  - Owner</b>: The username of the person who owns the file   
