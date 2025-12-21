@@ -44,12 +44,14 @@
 
   ## ls -l
   The <b>-l</b> switch stands for <b>L</b>ong Listing with all Attributes.   
-  <b>Note:</b>
+  <b>Note:</b> There are multiple columns listed here with different purpose.
+  The entry at the top "total 654910" tells how many 
+
   <img width="938" height="287" alt="image" src="https://github.com/user-attachments/assets/c6878eba-276c-4c60-891b-8935763840d0" />
   
   ## ls --color
   The <b>--color</b> switch will list elements with different colors   
-  <b>Note:</b> This is a built-in ( aliased ) functionality in most modern distros.   
+  <b>Note:</b> This is a built-in ( aliased ) functionality in most modern distros. See: "alias" command!   
   In the below sample, there are following colors:
 
   - blue: folder
