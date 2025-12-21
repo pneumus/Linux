@@ -80,14 +80,17 @@ is that <b>mtime</b> will update only when the actual content of the file is cha
 and <b>ctime</b> updates whenever the file's <b>inode</b> (metadata) changes   
 
   ## ${\color{lightgreen}\mathtt{ls \space\space -R}}$   
-  The <b>-R</b> Switch will list Files recursively:
+  The <b>-R</b> Switch will list Files recursively:   
   In other words, it steps into every Subdirectory of every Subdirectory (maximum depth)
 
   ### Example Folder Structure:
 
   &nbsp; <img width="434" height="362" alt="image" src="https://github.com/user-attachments/assets/bc33349f-412b-4c5b-9e9c-410ee4f0586a" />
 
-  
+  If <b>ls -R</b> is executed in the <b>Project_Root</b> Folder:
+
+  &nbsp; <img width="463" height="460" alt="image" src="https://github.com/user-attachments/assets/ca77919f-b4fb-47f4-b114-d8752f9b0a86" />
+
   
 </details>
 
