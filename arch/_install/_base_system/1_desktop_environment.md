@@ -2,8 +2,15 @@
 
 ## Customize KDE
 
+Install Basic Tools
+
+    sudo pacman -S --noconfirm usbutils git base-devel openssh wget vi less cmake rsync reflector
+
 Network Configuration for the Wifi
 
+    # Configure Reflector
+    sudo reflector --country Switzerland --latest 10 --sort rate --save /etc/pacman.d/mirrorlist
+    
     # Disable ECN
     sudo sysctl net.ipv4.tcp_ecn=0
     
@@ -12,11 +19,7 @@ Network Configuration for the Wifi
 
     # Disable Power Save
     sudo iw dev wlan0 set power_save off
-
-Install Basic Tools
-
-    sudo pacman -S --noconfirm usbutils git base-devel openssh wget vi less cmake rsync reflector
-
+    
 Install and Configure Uncomplicated Firewall
 
     sudo pacman -S ufw
