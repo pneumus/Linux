@@ -3,8 +3,6 @@
 This page is inteded to describe and explain <b>Basic Linux Commands</b>   
 and their switches (flags) and parameters (options)   
 
-## ${\colorbox{black}{\color{lightgreen}\mathtt{\space --sort \space (Flag) \space vs \space -c \space (Switch) \space}}}$
-
 <details>
   <summary>⭐ F.U.C.K. - Frequently Used Commands in Konsole</summary>
   &nbsp;&nbsp;&nbsp;   
