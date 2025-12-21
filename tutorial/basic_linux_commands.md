@@ -44,8 +44,11 @@
 
   ## ls -l
   The <b>-l</b> switch stands for <b>LONG</b> Listing with all Attributes.   
-  <b>Note:</b> There are multiple columns listed here with different purpose.
-  The entry at the top "total 654910" tells how many 
+  <b>Note:</b> There are multiple columns listed here with different purpose.   
+  The entry at the top "total 654910" tells what's the total size of the directory in kilobyte sized blocks.   
+
+  Column Breakdown: ( From left to right )   
+  - Permissions: The first character shows the file type (- for file, d for directory, l for link). The next 9 characters show read (r), write (w), and execute (x) permissions for the owner, group, and others.   
 
   <img width="938" height="287" alt="image" src="https://github.com/user-attachments/assets/c6878eba-276c-4c60-891b-8935763840d0" />
   
