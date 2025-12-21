@@ -66,7 +66,17 @@ and their <b>switches (flags)</b>, and <b>parameters (options)</b>
   The <b>--sort</b> Option will sort files by the desired need   
   <b>Note</b>: If the Option is not specified, the <b>ls</b> Command will list alphabetically, by default   
 
-  
+  Switch (Flag),Parameter (Option),Sorted By,Order Description
+(None),(None),Alphabetical,Default alphabetical order (A to Z).
+-t,--sort=time,Modification Time,Newest files (last content change) appear first.
+-c,--sort=ctime,Change Time,Newest files (last metadata/status change) appear first.
+-u,--sort=atime,Access Time,Newest files (last time read/opened) appear first.
+-S,--sort=size,File Size,Largest files appear at the top.
+-X,--sort=extension,File Extension,Alphabetical by the characters after the last dot.
+-v,--sort=version,Natural Version,"Correct numeric order (e.g., file2 comes before file10)."
+-U,--sort=none,No Sort,Entries are listed in the order they exist on the disk.
+-f,(none),Unsorted,"Same as -U, but also enables hidden files and disables color."
+
     
 </details>
 
