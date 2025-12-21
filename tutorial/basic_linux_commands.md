@@ -43,7 +43,7 @@
   ```   
 
   ## ls -l
-  The <b>-l</b> switch stands for <b>L</b>ong Listing with all Attributes.   
+  The <b>-l</b> switch stands for <b>LONG</b> Listing with all Attributes.   
   <b>Note:</b> There are multiple columns listed here with different purpose.
   The entry at the top "total 654910" tells how many 
 
