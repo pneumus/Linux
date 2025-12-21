@@ -67,11 +67,11 @@ and their <b>switches (flags)</b>, and <b>parameters (options)</b>
   <b>Note</b>: If the Option is not specified, the <b>ls</b> Command will list alphabetically, by default   
 
 
-| Switch (Flag) | Option (Param) |
-| ------------- | -------------- |
-| -t            | --sort=time    |
-| -c            | --sort=ctime   |
-| -u            | --sort=atime   |
+| Option (Param) | Switch (Flag)  |
+| -------------  | -------------- |
+| --sort=time    | -t             |
+| --sort=ctime   | -c             |
+| --sort=atime   | -u             |
     
 </details>
 
