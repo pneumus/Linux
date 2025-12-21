@@ -70,8 +70,8 @@ and their <b>switches (flags)</b>, and <b>parameters (options)</b>
 | Switch (Flag) | Option (Param) |
 | ------------- | -------------- |
 | -t            | --sort=time    |
-| February      | $80            |
-| March         | $420           |
+| -c            | --sort=ctime   |
+| -u            | --sort=atime   |
     
 </details>
 
