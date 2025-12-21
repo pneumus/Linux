@@ -80,7 +80,8 @@
 
   <img width="879" height="331" alt="image" src="https://github.com/user-attachments/assets/9b403500-9229-4c0d-8461-8d017666afe9" />
 
-  <b>Note</b>: Compare the file size column with the column in the output of <b>ls -l</b>
+  <b>Note</b>: Compare the file size column with the column in the output of <b>ls -l</b>   
+  Instead of bytes, file sizes are displayed in K (kilobytes) or M (megabytes)
   
 </details>
 
