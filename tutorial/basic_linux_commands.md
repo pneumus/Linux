@@ -105,6 +105,9 @@ and <b>ctime</b> updates whenever the file's <b>inode</b> (metadata) changes
   - Fedora Linux:
 
         sudo dnf install tree
+
+  &nbsp; <img width="457" height="349" alt="image" src="https://github.com/user-attachments/assets/e1d60a93-c66f-4f23-8319-47cb38977bd4" />
+
   
 </details>
 
