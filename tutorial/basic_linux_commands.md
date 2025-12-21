@@ -75,7 +75,9 @@ and their <b>switches (flags)</b>, and <b>parameters (options)</b>
   | --sort=atime   | -u             | Access Time        |
   | --sort=size    | -S             | File Size          |
 
-<b>Note</b>: The Difference between <b>Modification Time</b> and <b>Access Time</b>
+<b>Note</b>: The Difference between <b>Modification Time (mtime)</b> and <b>Change Time (ctime)</b>   
+is that <b>mtime</b> will update only when the actual content of the file is changed   
+and <b>ctime</b> updates whenever the file's inode (metadata) changes   
     
 </details>
 
