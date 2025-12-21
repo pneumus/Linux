@@ -12,7 +12,7 @@ and their <b>switches (flags)</b>, and <b>parameters (options)</b>
   &nbsp;   
 
   <details>
-  <summary>## ${\color{lightgreen}\mathtt{ls \space\space -a}}$ </summary>
+  <summary>${\color{lightgreen}\mathtt{ls \space\space -a}}$ </summary>
   
   The <b>-a</b> switch stands for <b>ALL</b> Entries ( including the hidden ones )   
   <b>Note:</b> Hidden Entries have a dot ( . ) as a Starting Character
@@ -25,8 +25,9 @@ and their <b>switches (flags)</b>, and <b>parameters (options)</b>
     
   </details>
   
-
-  ## ${\color{lightgreen}\mathtt{ls \space\space -l}}$
+  <details>
+    <summary>## ${\color{lightgreen}\mathtt{ls \space\space -l}}$</summary>
+  
   The <b>-l</b> switch stands for <b>LONG</b> Listing with all Attributes.   
   <b>Note:</b> There are multiple columns listed here with different purpose.     
 
@@ -44,7 +45,10 @@ and their <b>switches (flags)</b>, and <b>parameters (options)</b>
   <b>  - Size</b>: The size of the file in bytes   
   <b>  - Timestamp</b>: The date and time the file was last modified   
   <b>  - Name</b>: Name of the file / directory / link   
-
+  
+  </details>
+  
+  
   
   ## ${\color{lightgreen}\mathtt{ls \space\space\space --color}}$
   The <b>--color</b> switch will list elements with different colors   
