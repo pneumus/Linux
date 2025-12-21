@@ -1,0 +1,89 @@
+Dec 21 01:47:24 archlinux systemsettings[1170]: Failed to register with host portal QDBusError("org.freedesktop.portal.Error.Failed", "Could n
+ot register app ID: Connection already associated with an application ID")
+Dec 21 01:47:32 archlinux systemd[1]: systemd-hostnamed.service: Deactivated successfully.
+Dec 21 01:47:34 archlinux systemd-timesyncd[299]: Contacted time server 212.51.144.47:123 (2.arch.pool.ntp.org).
+Dec 21 01:47:34 archlinux systemd-timesyncd[299]: Initial clock synchronization to Sun 2025-12-21 01:47:34.014620 CET.
+Dec 21 01:47:41 archlinux systemd[1]: systemd-localed.service: Deactivated successfully.
+Dec 21 01:50:56 archlinux systemsettings[1170]: You have not set a transientParent on KNewStuff.Dialog or .Action. This may cause severe probl
+ems with window and lifetime management. We'll try to fix the situation automatically but you should really provide an explicit transientParent
+Dec 21 01:50:56 archlinux systemsettings[1170]: qrc:/qt/qml/org/kde/kirigami/templates/OverlayDrawer.qml:224: TypeError: Cannot read property 
+'width' of null
+Dec 21 01:51:55 archlinux systemsettings[1170]: Install: "Utterly Sweet Global for Plasma 6" from "/tmp/QxxcZU-Utterly-Sweet.tar.xz"
+Dec 21 01:51:56 archlinux knshandler[1220]: The file could not be parsed.
+Dec 21 01:51:56 archlinux knshandler[1220]: providers are loaded
+Dec 21 01:51:56 archlinux knshandler[1220]: installing...
+Dec 21 01:51:56 archlinux knshandler[1220]: Install: "Utterly Round Dark for Plasma 6" from "/tmp/IeuyKU-Utterly-Round-Aurorae-Dark.tar.xz"
+Dec 21 01:51:56 archlinux knshandler[1228]: providers are loaded
+Dec 21 01:51:56 archlinux knshandler[1228]: installing...
+Dec 21 01:51:57 archlinux knshandler[1228]: Install: "Utterly Sweet" from "/tmp/FnfneS-Utterly-Sweet-Colors.tar.gz"
+Dec 21 01:51:57 archlinux knshandler[1235]: providers are loaded
+Dec 21 01:51:57 archlinux knshandler[1235]: installing...
+Dec 21 01:51:58 archlinux knshandler[1235]: Install: "BeautySolar" from "/tmp/GWckEb-BeautySolar-20230909103306.tar.gz"
+Dec 21 01:51:58 archlinux knshandler[1244]: providers are loaded
+Dec 21 01:51:58 archlinux knshandler[1244]: installing...
+Dec 21 01:51:59 archlinux knshandler[1244]: Install: "Utterly Round" from "/tmp/TUlnKo-Utterly-Round-Desktop.tar.xz"
+Dec 21 01:51:59 archlinux knshandler[1253]: providers are loaded
+Dec 21 01:51:59 archlinux knshandler[1253]: installing...
+Dec 21 01:51:59 archlinux knshandler[1253]: Install: "Simple Application Launcher for Plasma 6" from "/tmp/mLVCUV-Simple-Kickoff.plasmoid"
+Dec 21 01:51:59 archlinux knshandler[1262]: providers are loaded
+Dec 21 01:52:00 archlinux knshandler[1262]: installing...
+Dec 21 01:52:00 archlinux knshandler[1262]: Install: "Window Buttons Applet 6 Prebuilt" from "/tmp/bSPeDI-Window-Button-Applet.plasmoid"
+Dec 21 01:52:00 archlinux knshandler[1273]: providers are loaded
+Dec 21 01:52:00 archlinux knshandler[1273]: installing...
+Dec 21 01:52:01 archlinux knshandler[1273]: Install: "Window Title Applet 6" from "/tmp/iRkUWN-v0.4.tar.gz"
+Dec 21 01:52:01 archlinux knshandler[1273]: QDBusConnection: error: could not send signal to service "" path "/KPackage/" interface "org.kde.p
+lasma.kpackage" member "packageUpdated": Invalid object path: /KPackage/
+Dec 21 01:52:01 archlinux knshandler[1282]: providers are loaded
+Dec 21 01:52:01 archlinux knshandler[1282]: installing...
+Dec 21 01:52:02 archlinux knshandler[1282]: Install: "Netspeed Widget" from "/tmp/SdVbjk-netspeed-widget-3.1.plasmoid"
+Dec 21 01:52:02 archlinux knshandler[1282]: QDBusConnection: error: could not send signal to service "" path "/KPackage/" interface "org.kde.p
+lasma.kpackage" member "packageUpdated": Invalid object path: /KPackage/
+Dec 21 01:52:02 archlinux knshandler[1292]: providers are loaded
+Dec 21 01:52:02 archlinux knshandler[1292]: installing...
+Dec 21 01:52:02 archlinux knshandler[1292]: "Error transferring https://files06.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI
+1NiJ9.eyJpZCI6MTczMDcxMzY0OSwibyI6IjEiLCJzIjoiNzZhZTFmNDczOWJiN2MwNWRhN2UyNDg2NzI3YTI2OTkzNjlkMmEzZTM4ZDE5M2FkNDFjOGUyYWMyN2NkMzM5ZDU0MDA1YjY1MTJlYmFhNzg0NDZmMzhlZjEyNDIxNGY5OThj
+MzlkMWM1Yzc0ZDI0ZDI4NWNmOTU0NWU2NjY0YjQiLCJ0IjoxNzY2MjgxOTIyLCJzdGZwIjpudWxsLCJzdGlwIjoiMTc4LjE5My4xMDAuMjE2In0.9nMd3TUKNZRXVmjixH4Nxln8Pq9BXZTHqU_6HgqWg0I/overview.plasmoid - se
+rver replied with status code 429"
+Dec 21 01:52:02 archlinux knshandler[1292]: "Download of \"Toggle Overview Widget for Plasma 6\" failed, error: Error transferring https://fil
+es06.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTczMDcxMzY0OSwibyI6IjEiLCJzIjoiNzZhZTFmNDczOWJiN2MwNWRhN2UyNDg2NzI3YTI2OTkzNjlkMmEzZTM4ZDE5M2FkN
+DFjOGUyYWMyN2NkMzM5ZDU0MDA1YjY1MTJlYmFhNzg0NDZmMzhlZjEyNDIxNGY5OThjMzlkMWM1Yzc0ZDI0ZDI4NWNmOTU0NWU2NjY0YjQiLCJ0IjoxNzY2MjgxOTIyLCJzdGZwIjpudWxsLCJzdGlwIjoiMTc4LjE5My4xMDAuMjE2In0
+.9nMd3TUKNZRXVmjixH4Nxln8Pq9BXZTHqU_6HgqWg0I/overview.plasmoid - server replied with status code 429"
+Dec 21 01:52:02 archlinux knshandler[1292]: kns error: KNSCore::ErrorCode::InstallationError "Download of \"Toggle Overview Widget for Plasma 
+6\" failed, error: Error transferring https://files06.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTczMDcxMzY0OSwibyI6IjEiLCJzIjoiNzZhZTFmNDczOWJi
+N2MwNWRhN2UyNDg2NzI3YTI2OTkzNjlkMmEzZTM4ZDE5M2FkNDFjOGUyYWMyN2NkMzM5ZDU0MDA1YjY1MTJlYmFhNzg0NDZmMzhlZjEyNDIxNGY5OThjMzlkMWM1Yzc0ZDI0ZDI4NWNmOTU0NWU2NjY0YjQiLCJ0IjoxNzY2MjgxOTIyLC
+JzdGZwIjpudWxsLCJzdGlwIjoiMTc4LjE5My4xMDAuMjE2In0.9nMd3TUKNZRXVmjixH4Nxln8Pq9BXZTHqU_6HgqWg0I/overview.plasmoid - server replied with status code 429" QVariant(Invalid)
+Dec 21 01:52:02 archlinux knshandler[1300]: providers are loaded
+Dec 21 01:52:02 archlinux knshandler[1300]: already installed.
+Dec 21 01:52:03 archlinux knshandler[1309]: providers are loaded
+Dec 21 01:52:03 archlinux knshandler[1309]: already installed.
+Dec 21 01:52:03 archlinux knshandler[1316]: providers are loaded
+Dec 21 01:52:03 archlinux knshandler[1316]: already installed.
+Dec 21 01:52:03 archlinux knshandler[1323]: providers are loaded
+Dec 21 01:52:03 archlinux knshandler[1323]: already installed.
+Dec 21 01:52:03 archlinux knshandler[1330]: providers are loaded
+Dec 21 01:52:03 archlinux knshandler[1330]: already installed.
+Dec 21 01:52:03 archlinux knshandler[1337]: providers are loaded
+Dec 21 01:52:03 archlinux knshandler[1337]: already installed.
+Dec 21 01:52:04 archlinux knshandler[1344]: providers are loaded
+Dec 21 01:52:04 archlinux knshandler[1344]: already installed.
+Dec 21 01:52:04 archlinux knshandler[1351]: providers are loaded
+Dec 21 01:52:04 archlinux knshandler[1351]: already installed.
+Dec 21 01:52:04 archlinux knshandler[1358]: providers are loaded
+Dec 21 01:52:04 archlinux knshandler[1358]: installing...
+Dec 21 01:52:04 archlinux knshandler[1358]: "Error transferring https://files06.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI
+1NiJ9.eyJpZCI6MTczMDcxMzY0OSwibyI6IjEiLCJzIjoiNzRmNzA3NjcwZGUyNDcwOWY4OWE4NmUzMWM2NmU0YTg0ZmJlYzg1Y2Y2NjAzZDU3NTlhOTVmNDEyNDVkNTY5MGE4OGI4OTY1ZWQ3MTNkOTZlNDk5NGVmZTdhM2IxZjdhY2My
+ZjM4MmM0Nzk0ODk5MDJhNTUxNjU1YWQwNDMwYTciLCJ0IjoxNzY2MjgxOTI0LCJzdGZwIjpudWxsLCJzdGlwIjoiMTc4LjE5My4xMDAuMjE2In0.1JSjJidMqHvnyL6qewKAOZIBk3cxbgBacghO6M2SYcU/overview.plasmoid - se
+rver replied with status code 429"
+Dec 21 01:52:04 archlinux knshandler[1358]: "Download of \"Toggle Overview Widget for Plasma 6\" failed, error: Error transferring https://fil
+es06.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTczMDcxMzY0OSwibyI6IjEiLCJzIjoiNzRmNzA3NjcwZGUyNDcwOWY4OWE4NmUzMWM2NmU0YTg0ZmJlYzg1Y2Y2NjAzZDU3N
+TlhOTVmNDEyNDVkNTY5MGE4OGI4OTY1ZWQ3MTNkOTZlNDk5NGVmZTdhM2IxZjdhY2MyZjM4MmM0Nzk0ODk5MDJhNTUxNjU1YWQwNDMwYTciLCJ0IjoxNzY2MjgxOTI0LCJzdGZwIjpudWxsLCJzdGlwIjoiMTc4LjE5My4xMDAuMjE2In0
+.1JSjJidMqHvnyL6qewKAOZIBk3cxbgBacghO6M2SYcU/overview.plasmoid - server replied with status code 429"
+Dec 21 01:52:04 archlinux knshandler[1358]: kns error: KNSCore::ErrorCode::InstallationError "Download of \"Toggle Overview Widget for Plasma 
+6\" failed, error: Error transferring https://files06.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTczMDcxMzY0OSwibyI6IjEiLCJzIjoiNzRmNzA3NjcwZGUy
+NDcwOWY4OWE4NmUzMWM2NmU0YTg0ZmJlYzg1Y2Y2NjAzZDU3NTlhOTVmNDEyNDVkNTY5MGE4OGI4OTY1ZWQ3MTNkOTZlNDk5NGVmZTdhM2IxZjdhY2MyZjM4MmM0Nzk0ODk5MDJhNTUxNjU1YWQwNDMwYTciLCJ0IjoxNzY2MjgxOTI0LC
+JzdGZwIjpudWxsLCJzdGlwIjoiMTc4LjE5My4xMDAuMjE2In0.1JSjJidMqHvnyL6qewKAOZIBk3cxbgBacghO6M2SYcU/overview.plasmoid - server replied with status code 429" QVariant(Invalid)
+Dec 21 01:54:53 archlinux systemd[456]: app-systemsettings@e0bdc582cf374da891dd1030b2f8ac07.service: Consumed 10.681s CPU time over 7min 28.606s wall clock time, 433M memory peak
+.
+Dec 21 01:55:00 archlinux plasmashell[677]: qrc:/qt/qml/plasma/applet/org/kde/plasma/kickoff/main.qml:190:25: QML FullRepresentation (parent o
+r ancestor of QQuickLayoutAttached): Binding loop detected for property "preferredHeight":
+                                            qrc:/qt/qml/plasma/applet/org/kde/plasma/kickoff/FullRepresentation.qml:35:5
