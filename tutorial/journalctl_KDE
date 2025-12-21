@@ -1,13 +1,3 @@
-Dec 21 01:47:24 archlinux systemsettings[1170]: Failed to register with host portal QDBusError("org.freedesktop.portal.Error.Failed", "Could n
-ot register app ID: Connection already associated with an application ID")
-Dec 21 01:47:32 archlinux systemd[1]: systemd-hostnamed.service: Deactivated successfully.
-Dec 21 01:47:34 archlinux systemd-timesyncd[299]: Contacted time server 212.51.144.47:123 (2.arch.pool.ntp.org).
-Dec 21 01:47:34 archlinux systemd-timesyncd[299]: Initial clock synchronization to Sun 2025-12-21 01:47:34.014620 CET.
-Dec 21 01:47:41 archlinux systemd[1]: systemd-localed.service: Deactivated successfully.
-Dec 21 01:50:56 archlinux systemsettings[1170]: You have not set a transientParent on KNewStuff.Dialog or .Action. This may cause severe probl
-ems with window and lifetime management. We'll try to fix the situation automatically but you should really provide an explicit transientParent
-Dec 21 01:50:56 archlinux systemsettings[1170]: qrc:/qt/qml/org/kde/kirigami/templates/OverlayDrawer.qml:224: TypeError: Cannot read property 
-'width' of null
 Dec 21 01:51:55 archlinux systemsettings[1170]: Install: "Utterly Sweet Global for Plasma 6" from "/tmp/QxxcZU-Utterly-Sweet.tar.xz"
 Dec 21 01:51:56 archlinux knshandler[1220]: The file could not be parsed.
 Dec 21 01:51:56 archlinux knshandler[1220]: providers are loaded
