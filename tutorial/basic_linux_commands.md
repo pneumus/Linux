@@ -83,7 +83,7 @@
   <b>Note</b>: Compare the file size column with the column in the output of <b>ls -l</b>   
   Instead of bytes, file sizes are displayed in K (kilobytes) or M (megabytes)
 
-  ## ${\color{lightgreen}\mathtt{ls \space\space -h}}$
+  ## ${\color{lightgreen}\mathtt{ls \space\space\space --sort}}$
   
 </details>
 
