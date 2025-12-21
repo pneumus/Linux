@@ -75,10 +75,12 @@
 
   ## ${\color{lightgreen}\mathtt{ls \space\space -h}}$
   The <b>-h</b> switch will print file sizes in a <b>HUMAN</b> readable format   
-  <b>Note</b>: The <b>-h</b> switch needs to be combined with the <b>-l</b> switch to show <b>file sizes</b>
-  The order of switches do not matter, thus <b>ls -lh</b> and <b>ls -hl</b> will have the same effect.
+  <b>Note</b>: The <b>-h</b> switch needs to be combined with the <b>-l</b> switch to show <b>file sizes</b>   
+  The order of switches do not matter, thus <b>ls -lh</b> and <b>ls -hl</b> will have the same effect.   
 
-  <img width="882" height="330" alt="image" src="https://github.com/user-attachments/assets/84ffb6f3-443c-44ff-a738-49615ee39c50" />
+  <img width="879" height="331" alt="image" src="https://github.com/user-attachments/assets/9b403500-9229-4c0d-8461-8d017666afe9" />
+
+  <b>Note</b>: Compare the file size column with the column in the output of <b>ls -l</b>
   
 </details>
 
