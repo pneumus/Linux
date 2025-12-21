@@ -48,8 +48,9 @@
   The entry at the top "total 654910" tells what's the total size of the directory in kilobyte sized blocks.   
 
   ### Column Breakdown: ( From left to right )   
-  <b>  - Permissions</b>: The first character shows the file type (- for file, d for directory, l for link)   
-  &ensp;The next 9 characters show read (r), write (w), and execute (x) permissions for the owner, group, and others   
+  <b>  - Permissions</b>: 
+  &ensp;&ensp;The first character shows the file type (- for file, d for directory, l for link)   
+  &ensp;&ensp;The next 9 characters show read (r), write (w), and execute (x) permissions for the owner, group, and others   
   <b>  - Links</b>: The number of hard links to the file or directory   
   <b>  - Owner</b>: The username of the person who owns the file   
   <b>  - Group</b>: The name of the group that owns the file   
