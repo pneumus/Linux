@@ -26,7 +26,7 @@ and their <b>switches (flags)</b>, and <b>parameters (options)</b>
   </details>
   
   <details>
-    <summary>## ${\color{lightgreen}\mathtt{ls \space\space -l}}$</summary>
+    <summary>${\color{lightgreen}\mathtt{ls \space\space -l}}$</summary>
   
   The <b>-l</b> switch stands for <b>LONG</b> Listing with all Attributes.   
   <b>Note:</b> There are multiple columns listed here with different purpose.     
