@@ -84,6 +84,7 @@
   Instead of bytes, file sizes are displayed in K (kilobytes) or M (megabytes)
 
   ## ${\color{lightgreen}\mathtt{ls \space\space\space --sort}}$
+  The <b>--sort</b>
   
 </details>
 
