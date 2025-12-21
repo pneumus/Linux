@@ -62,7 +62,7 @@
   <b>  - Name</b>: Name of the file / directory / link   
 
   
-  ## ${\color{lightgreen}\mathtt{ls \space\space --color}}$
+  ## ${\color{lightgreen}\mathtt{ls \space\space\space --color}}$
   The <b>--color</b> switch will list elements with different colors   
   <b>Note:</b> This is a built-in ( aliased ) functionality in most modern distros. See: "alias" command!   
   In the below sample, there are following colors:
