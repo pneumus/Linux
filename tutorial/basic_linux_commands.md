@@ -47,6 +47,8 @@
   <b>Note:</b> There are multiple columns listed here with different purpose.   
   The entry at the top "total 654910" tells what's the total size of the directory in kilobyte sized blocks.   
 
+  <img width="943" height="328" alt="image" src="https://github.com/user-attachments/assets/1630db75-a250-4851-8ca9-64278f3cd306" />
+
   ### Column Breakdown: ( From left to right )   
   <b>  - Permissions</b>:   
   &ensp;&ensp;The first character shows the file type (<b>-</b> for file, <b>d</b> for directory, <b>l</b> for link)   
@@ -57,8 +59,6 @@
   <b>  - Size</b>: The size of the file in bytes   
   <b>  - Timestamp</b>: The date and time the file was last modified   
   <b>  - Name</b>: Name of the file / directory / link   
-
-  <img width="943" height="328" alt="image" src="https://github.com/user-attachments/assets/1630db75-a250-4851-8ca9-64278f3cd306" />
 
   
   ## ${\color{lightgreen}\mathtt{ls \space\space --color}}$
