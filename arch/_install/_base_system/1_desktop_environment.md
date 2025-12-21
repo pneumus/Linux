@@ -19,15 +19,15 @@ Network Configuration for the Wifi
 
     # Disable Power Save
     sudo iw dev wlan0 set power_save off
+
+Install Desktop Apps
+
+    sudo pacman -S --noconfirm dolphin firefox flatpak discover kscreen gwenview gedit kinfocenter spectacle ktorrent p7zip unrar ark
     
 Install and Configure Uncomplicated Firewall
 
     sudo pacman -S ufw
     sudo systemctl enable --now ufw
-
-Install Desktop Apps
-
-    sudo pacman -S --noconfirm dolphin firefox chromium flatpak discover kscreen gwenview gedit kinfocenter spectacle ktorrent ark p7zip unrar
 
 Install Partitioning Tools
 
