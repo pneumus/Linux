@@ -32,7 +32,7 @@
   <summary>ls - List Contents of a Directory</summary>
   &nbsp;   
 
-  ## ls -a
+  ## <font color="lightgreen">ls -a</font>
   The <b>-a</b> switch stands for <b>ALL</b> Entries ( including the hidden ones )   
   <b>Note:</b> Hidden Entries have a dot ( . ) as a Starting Character
 
