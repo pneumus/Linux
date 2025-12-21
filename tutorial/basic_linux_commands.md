@@ -85,19 +85,19 @@ and <b>ctime</b> updates whenever the file's <b>inode</b> (metadata) changes
 
   ### Example Folder Structure:
 
-Project_Root/
-├── documents/               (Depth 1)
-│   ├── reports/             (Depth 2)
-│   │   ├── annual_2024.pdf  (Depth 3)
-│   │   └── budget_v2.xlsx   (Depth 3)
-│   └── templates/           (Depth 2)
-│       └── header.png       (Depth 3)
-├── src/                     (Depth 1)
-│   ├── components/          (Depth 2)
-│   │   └── Navbar.js        (Depth 3)
-│   └── utils/               (Depth 2)
-│       └── helpers.js       (Depth 3)
-└── README.md                (Depth 1)
+  Project_Root/   
+  ├── documents/               (Depth 1)   
+  │   ├── reports/             (Depth 2)   
+  │   │   ├── annual_2024.pdf  (Depth 3)   
+  │   │   └── budget_v2.xlsx   (Depth 3)   
+  │   └── templates/           (Depth 2)   
+  │       └── header.png       (Depth 3)   
+  ├── src/                     (Depth 1)   
+  │   ├── components/          (Depth 2)   
+  │   │   └── Navbar.js        (Depth 3)   
+  │   └── utils/               (Depth 2)   
+  │       └── helpers.js       (Depth 3)   
+  └── README.md                (Depth 1)   
   
   
 </details>
