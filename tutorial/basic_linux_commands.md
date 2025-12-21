@@ -25,7 +25,7 @@ and their <b>switches (flags)</b>, and <b>parameters (options)</b>
   The <b>-l</b> switch stands for <b>LONG</b> Listing with all Attributes.   
   <b>Note:</b> There are multiple columns listed here with different purpose.     
 
-  <img width="943" height="328" alt="image" src="https://github.com/user-attachments/assets/1630db75-a250-4851-8ca9-64278f3cd306" />
+  &nbsp; <img width="943" height="328" alt="image" src="https://github.com/user-attachments/assets/1630db75-a250-4851-8ca9-64278f3cd306" />
 
   The entry at the top "total 654910" tells what's the total size of the directory in kilobyte sized blocks. 
 
@@ -57,7 +57,7 @@ and their <b>switches (flags)</b>, and <b>parameters (options)</b>
   <b>Note</b>: The <b>-h</b> switch needs to be combined with the <b>-l</b> switch to show <b>file sizes</b>   
   The order of switches do not matter, thus <b>ls -lh</b> and <b>ls -hl</b> will have the same effect.   
 
-  <img width="879" height="331" alt="image" src="https://github.com/user-attachments/assets/9b403500-9229-4c0d-8461-8d017666afe9" />
+  &nbsp; <img width="879" height="331" alt="image" src="https://github.com/user-attachments/assets/9b403500-9229-4c0d-8461-8d017666afe9" />
 
   <b>Note</b>: Compare the file size column with the column in the output of <b>ls -l</b>   
   Instead of bytes, file sizes are displayed in K (kilobytes) or M (megabytes)
