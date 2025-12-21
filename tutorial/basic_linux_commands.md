@@ -1,7 +1,7 @@
 # Basic Linux Commands
 
-This page is inteded to describe and explain <b>Basic Linux Commands</b>   
-and their switches (flags) and parameters (options)   
+This page is intended to describe and explain <b>Basic Linux Commands</b>   
+and their switches (flags), and parameters (options)   
 
 <details>
   <summary>⭐ F.U.C.K. - Frequently Used Commands in Konsole</summary>
