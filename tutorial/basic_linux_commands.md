@@ -63,8 +63,9 @@ and their <b>switches (flags)</b>, and <b>parameters (options)</b>
   Instead of bytes, file sizes are displayed in K (kilobytes) or M (megabytes)
 
   ## ${\color{lightgreen}\mathtt{ls \space\space\space --sort}}$
-  The <b>--sort</b>
-  
+  The <b>--sort</b> Option will sort files by the desired need   
+  <b>Note</b>: The <b>ls</b> will sort alphabetically by default, without the <b>--sort</b> Option
+    
 </details>
 
 
