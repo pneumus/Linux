@@ -83,7 +83,7 @@ and <b>ctime</b> updates whenever the file's <b>inode</b> (metadata) changes
   The <b>-R</b> Switch will list Files recursively:   
   In other words, it steps into every Subdirectory of every Subdirectory (maximum depth)
 
-  ### Example Folder Structure:
+  ### Example Folder Structure
 
   &nbsp; <img width="434" height="362" alt="image" src="https://github.com/user-attachments/assets/bc33349f-412b-4c5b-9e9c-410ee4f0586a" />
 
@@ -91,6 +91,20 @@ and <b>ctime</b> updates whenever the file's <b>inode</b> (metadata) changes
 
   &nbsp; <img width="463" height="460" alt="image" src="https://github.com/user-attachments/assets/ca77919f-b4fb-47f4-b114-d8752f9b0a86" />
 
+  ### Alternative Solution
+  Alternatively, you can install the <b>tree</b> package to Pretty Print the <b>Folder Structure</b>   
+  To install it execute the following Command:
+  - Arch Linux:
+
+        sudo pacman -S tree
+
+  - Ubuntu Linux:
+
+        sudo apt install tree
+
+  - Fedora Linux:
+
+        sudo dnf install tree
   
 </details>
 
