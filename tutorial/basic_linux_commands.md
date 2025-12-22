@@ -1,5 +1,5 @@
 ```diff
-+ Basic Linux Commands (This will be red)
++ Basic Linux Commands
 ```
 
 This page is intended to describe and explain <b>Basic Linux Commands</b><br>
