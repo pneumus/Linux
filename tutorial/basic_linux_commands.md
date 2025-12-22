@@ -26,9 +26,11 @@ and their <b>switches (flags)</b>, and <b>parameters (options)</b><br>
   <summary>${\color{lightgreen}\mathtt{ls \space\space -l}}$</summary><br>
   The <b>-l</b> switch stands for <b>LONG</b> Listing with all Attributes<br>
   <b>Note:</b> There are multiple columns listed here with different purpose<br>
+  <br>
   <img width="943" height="328" alt="image" src="https://github.com/user-attachments/assets/1630db75-a250-4851-8ca9-64278f3cd306" /><br>
   The entry at the top "total 654910" tells what's the total size of the directory in kilobyte sized blocks<br>
   ### Column Breakdown: ( From left to right )<br>
+  <br>
   <b>  - Permissions</b>:<br>
   The first character shows the file type (<b>-</b> for file, <b>d</b> for directory, <b>l</b> for link)<br>
   The next 9 characters show read (r), write (w), and execute (x) permissions for the owner, group, and others<br>
