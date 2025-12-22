@@ -135,7 +135,7 @@
   p - Copy Files & Directories
   rm - Remove Files & Directories
 </details>
-
+</details>
 
 <details>
   <summary>📝 Search & Edit Files</summary>
