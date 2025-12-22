@@ -29,6 +29,7 @@ and their <b>switches (flags)</b>, and <b>parameters (options)</b><br>
   <br>
   <img width="943" height="328" alt="image" src="https://github.com/user-attachments/assets/1630db75-a250-4851-8ca9-64278f3cd306" /><br>
   The entry at the top "total 654910" tells what's the total size of the directory in kilobyte sized blocks<br>
+    
   ### Column Breakdown: ( From left to right )<br>
   <br>
   <b>  - Permissions</b>:<br>
