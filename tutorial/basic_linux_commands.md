@@ -5,6 +5,7 @@
   and their <b>switches (flags)</b>, and <b>parameters (options)</b>
   <br>
 
+  <select>
   <label for="commands">Choose a command:</label>
   <select name="commands" id="commands">
   <option value="ls">ls (List files)</option>
