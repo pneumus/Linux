@@ -9,6 +9,7 @@
 
   <details>
   <summary>📁 File & Directory Management</summary>
+    
   <br>
   <details>
   <summary>ls - List Contents of a Directory</summary>
@@ -135,7 +136,7 @@
   rm - Remove Files & Directories
 
 </details>
-
+</details>
 
 <details>
   <summary>📝 Search & Edit Files</summary>
