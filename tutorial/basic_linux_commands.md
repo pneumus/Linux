@@ -11,7 +11,7 @@ and their <b>switches (flags)</b>, and <b>parameters (options)</b><br>
   
   <details>
     <summary>
-        ls -a
+        <b>ls -a</b>
     </summary>
     
     The <b>-a</b> switch stands for <b>ALL</b> Entries ( including the hidden ones )<br>
