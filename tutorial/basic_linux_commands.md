@@ -134,9 +134,8 @@
   mv - Move / Rename Files & Directories
   p - Copy Files & Directories
   rm - Remove Files & Directories
+</details>
 
-</details>
-</details>
 
 <details>
   <summary>📝 Search & Edit Files</summary>
@@ -152,4 +151,6 @@
 
 <details>
   <summary>⭐ F.U.C.K. - Frequently Used Commands in Konsole</summary>
+</details>
+
 </details>
