@@ -98,9 +98,7 @@ and their <b>switches (flags)</b>, and <b>parameters (options)</b><br>
         sudo dnf install tree
 
   <img width="457" height="349" alt="image" src="https://github.com/user-attachments/assets/e1d60a93-c66f-4f23-8319-47cb38977bd4" />
-
-    
-  </details>  
+  </details><br>
 
   
   
