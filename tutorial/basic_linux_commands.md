@@ -25,7 +25,7 @@
   <option value="cd">cd (Change directory)</option>
   <option value="mkdir">mkdir (Make directory)</option>
   </select>
-    
+  
   ```   
   [mateo@archipelago ~]$ ls -a
   .   .bash_history  .bash_profile  .cache   Desktop    Downloads   .icons  .mozilla  Pictures  Templates  Videos
@@ -35,13 +35,14 @@
   </details>
   
   <details>
-  <summary>${\color{lightgreen}\mathtt{ls \space\space -l}}$</summary><br>
-  The <b>-l</b> switch stands for <b>LONG</b> Listing with all Attributes<br>
-  <b>Note:</b> There are multiple columns listed here with different purpose<br>
+  <summary>${\color{lightgreen}\mathtt{ls \space\space -l}}$</summary>
+  The <b>-l</b> switch stands for <b>LONG</b> Listing with all Attributes
+  <b>Note:</b> There are multiple columns listed here with different purpose
   <br>
-  <img width="943" height="328" alt="image" src="https://github.com/user-attachments/assets/1630db75-a250-4851-8ca9-64278f3cd306" /><br>
-  The entry at the top "total 654910" tells what's the total size of the directory in kilobyte sized blocks<br>
-    
+  <img width="943" height="328" alt="image" src="https://github.com/user-attachments/assets/1630db75-a250-4851-8ca9-64278f3cd306" />
+  <br>
+  The entry at the top "total 654910" tells what's the total size of the directory in kilobyte sized blocks
+  <br>
   ### Column Breakdown: ( From left to right )<br>
   <br>
   <b>  - Permissions</b>:<br>
@@ -55,6 +56,7 @@
   <b>  - Name</b>: Name of the file / directory / link<br>
   <br>
   </details>
+
   
   <details>
   <summary>${\color{lightgreen}\mathtt{ls \space\space\space --color}}$</summary>  
@@ -107,15 +109,14 @@
   Alternatively, you can install the <b>tree</b> package to Pretty Print the <b>Folder Structure</b><br>
   To install it execute the following Command:
   - Arch Linux:
+    
         sudo pacman -S tree
   - Ubuntu Linux:
 
         sudo apt install tree
-
   - Fedora Linux:
 
         sudo dnf install tree
-
   <img width="457" height="349" alt="image" src="https://github.com/user-attachments/assets/e1d60a93-c66f-4f23-8319-47cb38977bd4" />
   </details><br>
 
@@ -124,79 +125,24 @@
 </details>
 
 
-<details>
-  <summary>pwd - Print Working Directory</summary>
-</details>
-
-
-<details>
-  <summary>cd - Change Directory</summary>
-</details>
-
-
-<details>
-  <summary>mkdir - Make Directory</summary>
-</details>
-
-
-<details>
-  <summary>mv - Move / Rename Files & Directories</summary>
-</details>
-
-
-<details>
-  <summary>cp - Copy Files & Directories</summary>
-</details>
-
-
-<details>
-  <summary>rm - Remove Files & Directories</summary>
-</details>
-</details>
+pwd - Print Working Directory
+cd - Change Directory
+mkdir - Make Directory
+mv - Move / Rename Files & Directories
+p - Copy Files & Directories
+rm - Remove Files & Directories
 
 
 <details>
   <summary>📝 Search & Edit Files</summary>
-  &nbsp;   
-
-
-<details>
-  <summary>vi / vim - File Editor</summary>
-  &nbsp;   
-
-</details>
-
-
-<details>
-  <summary>nano - File Editor</summary>
-  &nbsp;   
-
-</details>
-
-
-<details>
-  <summary>find - Search Files</summary>
-  &nbsp;   
-
-</details>
-
-
-<details>
-  <summary>grep - Search & Filter Files</summary>
-  &nbsp;   
-
-</details>
-
+  vi / vim - File Editor
+  nano - File Editor
+  find - Search Files
+  grep - Search & Filter Files
 </details>
 
 <details>
   <summary>⚙️ Network Specific Commands</summary>
-  &nbsp;   
-
-</details>
-
-
-
 </details>
 
 <details>
