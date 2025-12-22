@@ -4,16 +4,16 @@ This page is intended to describe and explain <b>Basic Linux Commands</b><br>
 and their <b>switches (flags)</b>, and <b>parameters (options)</b><br>
 
 <details>
-  <summary>📁 File & Directory Management</summary><br>
+  <summary>📁 File & Directory Management</summary>
   
   <details>
-  <summary>ls - List Contents of a Directory</summary><br>
+  <summary>ls - List Contents of a Directory</summary>\
 
   <details>
-    <summary>${\color{lightgreen}\mathtt{ls \space -a}}$</summary><br>
-    The <b>-a</b> switch stands for <b>ALL</b> Entries ( including the hidden ones )<br>
-    <b>Note:</b> Hidden Entries have a dot ( . ) as a Starting Character<br>
-    <br>
+    <summary>${\color{lightgreen}\mathtt{ls \space -a}}$</summary>\
+    The <b>-a</b> switch stands for <b>ALL</b> Entries ( including the hidden ones )\
+    <b>Note:</b> Hidden Entries have a dot ( . ) as a Starting Character\
+    \
     
     ```   
     [mateo@archipelago ~]$ ls -a
