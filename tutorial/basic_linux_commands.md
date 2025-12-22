@@ -66,9 +66,10 @@ and their <b>switches (flags)</b>, and <b>parameters (options)</b>
   </details>
   
   
+  <details>
+    <summary>${\color{lightgreen}\mathtt{ls \space\space -h}}$</summary>
 
-  ## ${\color{lightgreen}\mathtt{ls \space\space -h}}$
-  The <b>-h</b> switch will print file sizes in a <b>HUMAN</b> readable format   
+    The <b>-h</b> switch will print file sizes in a <b>HUMAN</b> readable format   
   <b>Note</b>: The <b>-h</b> switch needs to be combined with the <b>-l</b> switch to show <b>file sizes</b>   
   The order of switches do not matter, thus <b>ls -lh</b> and <b>ls -hl</b> will have the same effect.   
 
@@ -93,8 +94,13 @@ and their <b>switches (flags)</b>, and <b>parameters (options)</b>
 <b>Note</b>: The Difference between <b>Modification Time (mtime)</b> and <b>Change Time (ctime)</b>   
 is that <b>mtime</b> will update only when the actual content of the file is changed   
 and <b>ctime</b> updates whenever the file's <b>inode</b> (metadata) changes   
+    
+  </details>
+  
+  <details>
+    <summary>${\color{lightgreen}\mathtt{ls \space\space -R}}$   </summary>
 
-  ## ${\color{lightgreen}\mathtt{ls \space\space -R}}$   
+  
   The <b>-R</b> Switch will list Files recursively:   
   In other words, it steps into every Subdirectory of every Subdirectory (maximum depth)
 
@@ -123,6 +129,10 @@ and <b>ctime</b> updates whenever the file's <b>inode</b> (metadata) changes
 
   &nbsp; <img width="457" height="349" alt="image" src="https://github.com/user-attachments/assets/e1d60a93-c66f-4f23-8319-47cb38977bd4" />
 
+    
+  </details>  
+
+  
   
 </details>
 
