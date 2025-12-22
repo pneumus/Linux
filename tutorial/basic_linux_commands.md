@@ -69,7 +69,7 @@ and their <b>switches (flags)</b>, and <b>parameters (options)</b>
   <details>
     <summary>${\color{lightgreen}\mathtt{ls \space\space -h}}$</summary>
 
-    The <b>-h</b> switch will print file sizes in a <b>HUMAN</b> readable format   
+  The <b>-h</b> switch will print file sizes in a <b>HUMAN</b> readable format   
   <b>Note</b>: The <b>-h</b> switch needs to be combined with the <b>-l</b> switch to show <b>file sizes</b>   
   The order of switches do not matter, thus <b>ls -lh</b> and <b>ls -hl</b> will have the same effect.   
 
