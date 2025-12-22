@@ -1,19 +1,16 @@
 # Basic Linux Commands
 
-This page is intended to describe and explain <b>Basic Linux Commands</b>   
-and their <b>switches (flags)</b>, and <b>parameters (options)</b>   
+This page is intended to describe and explain <b>Basic Linux Commands</b><br>
+and their <b>switches (flags)</b>, and <b>parameters (options)</b><br>
 
 <details>
-  <summary>📁 File & Directory Management</summary>
-  &nbsp; &nbsp; &nbsp;      
-  
+  <summary>📁 File & Directory Management</summary><br>
   <details>
   <summary>ls - List Contents of a Directory</summary>
-  &nbsp;   
   <details>
   <summary>${\color{lightgreen}\mathtt{ls \space\space -a}}$ </summary>
-  The <b>-a</b> switch stands for <b>ALL</b> Entries ( including the hidden ones )   
-  <b>Note:</b> Hidden Entries have a dot ( . ) as a Starting Character
+  The <b>-a</b> switch stands for <b>ALL</b> Entries ( including the hidden ones )<br>
+  <b>Note:</b> Hidden Entries have a dot ( . ) as a Starting Character<br>
   ```   
   [mateo@archipelago ~]$ ls -a
 .   .bash_history  .bash_profile  .cache   Desktop    Downloads   .icons  .mozilla  Pictures  Templates  Videos
@@ -23,20 +20,20 @@ and their <b>switches (flags)</b>, and <b>parameters (options)</b>
   
   <details>
   <summary>${\color{lightgreen}\mathtt{ls \space\space -l}}$</summary>
-  The <b>-l</b> switch stands for <b>LONG</b> Listing with all Attributes.   
-  <b>Note:</b> There are multiple columns listed here with different purpose.     
-  &nbsp; <img width="943" height="328" alt="image" src="https://github.com/user-attachments/assets/1630db75-a250-4851-8ca9-64278f3cd306" />
-  The entry at the top "total 654910" tells what's the total size of the directory in kilobyte sized blocks. 
-  ### Column Breakdown: ( From left to right )   
-  <b>  - Permissions</b>:   
-  &ensp;&ensp;The first character shows the file type (<b>-</b> for file, <b>d</b> for directory, <b>l</b> for link)   
-  &ensp;&ensp;The next 9 characters show read (r), write (w), and execute (x) permissions for the owner, group, and others   
-  <b>  - Links</b>: The number of hard links to the file or directory   
-  <b>  - Owner</b>: The username of the person who owns the file   
-  <b>  - Group</b>: The name of the group that owns the file   
-  <b>  - Size</b>: The size of the file in bytes   
-  <b>  - Timestamp</b>: The date and time the file was last modified   
-  <b>  - Name</b>: Name of the file / directory / link   
+  The <b>-l</b> switch stands for <b>LONG</b> Listing with all Attributes<br>
+  <b>Note:</b> There are multiple columns listed here with different purpose<br>
+  <img width="943" height="328" alt="image" src="https://github.com/user-attachments/assets/1630db75-a250-4851-8ca9-64278f3cd306" /><br>
+  The entry at the top "total 654910" tells what's the total size of the directory in kilobyte sized blocks<br>
+  ### Column Breakdown: ( From left to right )<br>
+  <b>  - Permissions</b>:<br>
+  The first character shows the file type (<b>-</b> for file, <b>d</b> for directory, <b>l</b> for link)<br>
+  The next 9 characters show read (r), write (w), and execute (x) permissions for the owner, group, and others<br>
+  <b>  - Links</b>: The number of hard links to the file or directory<br>
+  <b>  - Owner</b>: The username of the person who owns the file<br>
+  <b>  - Group</b>: The name of the group that owns the file<br>
+  <b>  - Size</b>: The size of the file in bytes<br>
+  <b>  - Timestamp</b>: The date and time the file was last modified<br>
+  <b>  - Name</b>: Name of the file / directory / link<br>
   </details>
   
   <details>
@@ -47,7 +44,7 @@ and their <b>switches (flags)</b>, and <b>parameters (options)</b>
   - blue: folder
   - cyan ( light blue ): symbolic link
   - white: file   
-  &nbsp; <img width="1385" height="52" alt="image" src="https://github.com/user-attachments/assets/7d66c9c4-e7c8-4d98-afcd-b57303e27041" />
+  <img width="1385" height="52" alt="image" src="https://github.com/user-attachments/assets/7d66c9c4-e7c8-4d98-afcd-b57303e27041" />
   </details>
   
   
@@ -56,7 +53,7 @@ and their <b>switches (flags)</b>, and <b>parameters (options)</b>
   The <b>-h</b> switch will print file sizes in a <b>HUMAN</b> readable format   
   <b>Note</b>: The <b>-h</b> switch needs to be combined with the <b>-l</b> switch to show <b>file sizes</b>   
   The order of switches do not matter, thus <b>ls -lh</b> and <b>ls -hl</b> will have the same effect.   
-  &nbsp; <img width="879" height="331" alt="image" src="https://github.com/user-attachments/assets/9b403500-9229-4c0d-8461-8d017666afe9" />
+  <img width="879" height="331" alt="image" src="https://github.com/user-attachments/assets/9b403500-9229-4c0d-8461-8d017666afe9" />
   <b>Note</b>: Compare the file size column with the column in the output of <b>ls -l</b>   
   Instead of bytes, file sizes are displayed in K (kilobytes) or M (megabytes)
   </details>
@@ -83,9 +80,9 @@ and their <b>switches (flags)</b>, and <b>parameters (options)</b>
   The <b>-R</b> Switch will list Files recursively:   
   In other words, it steps into every Subdirectory of every Subdirectory (maximum depth)
   ### Example Folder Structure
-  &nbsp; <img width="434" height="362" alt="image" src="https://github.com/user-attachments/assets/bc33349f-412b-4c5b-9e9c-410ee4f0586a" />
+  <img width="434" height="362" alt="image" src="https://github.com/user-attachments/assets/bc33349f-412b-4c5b-9e9c-410ee4f0586a" />
   If <b>ls -R</b> is executed in the <b>Project_Root</b> Folder:
-  &nbsp; <img width="463" height="460" alt="image" src="https://github.com/user-attachments/assets/ca77919f-b4fb-47f4-b114-d8752f9b0a86" />
+  <img width="463" height="460" alt="image" src="https://github.com/user-attachments/assets/ca77919f-b4fb-47f4-b114-d8752f9b0a86" />
   ### Alternative Solution
   Alternatively, you can install the <b>tree</b> package to Pretty Print the <b>Folder Structure</b>   
   To install it execute the following Command:
@@ -101,7 +98,7 @@ and their <b>switches (flags)</b>, and <b>parameters (options)</b>
 
         sudo dnf install tree
 
-  &nbsp; <img width="457" height="349" alt="image" src="https://github.com/user-attachments/assets/e1d60a93-c66f-4f23-8319-47cb38977bd4" />
+  <img width="457" height="349" alt="image" src="https://github.com/user-attachments/assets/e1d60a93-c66f-4f23-8319-47cb38977bd4" />
 
     
   </details>  
@@ -113,7 +110,7 @@ and their <b>switches (flags)</b>, and <b>parameters (options)</b>
 
 <details>
   <summary>pwd - Print Working Directory</summary>
-  &nbsp;   
+  
 
 </details>
 
