@@ -7,7 +7,7 @@ and their <b>switches (flags)</b>, and <b>parameters (options)</b><br>
   <summary>📁 File & Directory Management</summary><br>
   
   <details>
-  <summary>ls - List Contents of a Directory</summary><br>
+  <summary>ls - List Contents of a Directory</summary><br><br>
   <details>
   <summary>${\color{lightgreen}\mathtt{ls \space\space -a}}$ </summary>
   The <b>-a</b> switch stands for <b>ALL</b> Entries ( including the hidden ones )<br>
