@@ -23,7 +23,7 @@ and their <b>switches (flags)</b>, and <b>parameters (options)</b><br>
   </details>
   
   <details>
-  <summary>${\color{lightgreen}\mathtt{ls \space\space -l}}$</summary>
+  <summary>${\color{lightgreen}\mathtt{ls \space\space -l}}$</summary><br>
   The <b>-l</b> switch stands for <b>LONG</b> Listing with all Attributes<br>
   <b>Note:</b> There are multiple columns listed here with different purpose<br>
   <img width="943" height="328" alt="image" src="https://github.com/user-attachments/assets/1630db75-a250-4851-8ca9-64278f3cd306" /><br>
@@ -38,6 +38,7 @@ and their <b>switches (flags)</b>, and <b>parameters (options)</b><br>
   <b>  - Size</b>: The size of the file in bytes<br>
   <b>  - Timestamp</b>: The date and time the file was last modified<br>
   <b>  - Name</b>: Name of the file / directory / link<br>
+  <br>
   </details>
   
   <details>
