@@ -18,6 +18,13 @@
   <br>
   <b>Note:</b> Hidden Entries have a dot ( . ) as a Starting Character
   <br>
+  
+  <label for="commands">Choose a command:</label>
+  <select name="commands" id="commands">
+  <option value="ls">ls (List files)</option>
+  <option value="cd">cd (Change directory)</option>
+  <option value="mkdir">mkdir (Make directory)</option>
+  </select>
     
   ```   
   [mateo@archipelago ~]$ ls -a
