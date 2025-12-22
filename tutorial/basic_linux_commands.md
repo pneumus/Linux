@@ -1,17 +1,11 @@
 # Basic Linux Commands
 
+
   This page is intended to describe and explain <b>Basic Linux Commands</b>
   <br>
   and their <b>switches (flags)</b>, and <b>parameters (options)</b>
   <br>
-
-  <select>
-  <label for="commands">Choose a command:</label>
-  <select name="commands" id="commands">
-  <option value="ls">ls (List files)</option>
-  <option value="cd">cd (Change directory)</option>
-  <option value="mkdir">mkdir (Make directory)</option>
-  </select>
+  
 
   <details>
   <summary>📁 File & Directory Management</summary>
@@ -34,6 +28,7 @@
   ```
   <br>
   </details>
+
   
   <details>
   <summary>${\color{lightgreen}\mathtt{ls \space\space -l}}$</summary>
@@ -80,6 +75,7 @@
   <b>Note</b>: Compare the file size column with the column in the output of <b>ls -l</b>   
   Instead of bytes, file sizes are displayed in K (kilobytes) or M (megabytes)
   </details>
+
   
   <details>
   <summary>${\color{lightgreen}\mathtt{ls \space\space\space --sort}}$</summary>
@@ -93,21 +89,30 @@
   | --sort=ctime   | -c             | Change Time        |
   | --sort=atime   | -u             | Access Time        |
   | --sort=size    | -S             | File Size          |
-  <b>Note</b>: The Difference between <b>Modification Time (mtime)</b> and <b>Change Time (ctime)</b>   
+  <b>Note</b>: The Difference between <b>Modification Time (mtime)</b> and <b>Change Time (ctime)
+  </b>   
   is that <b>mtime</b> will update only when the actual content of the file is changed   
   and <b>ctime</b> updates whenever the file's <b>inode</b> (metadata) changes   
   </details>
 
+
   <details>
   <summary>${\color{lightgreen}\mathtt{ls \space\space -R}}$</summary>
-  The <b>-R</b> Switch will list Files recursively:<br>
-  In other words, it steps into every Subdirectory of every Subdirectory (maximum depth)<br>
-  ### Example Folder Structure<br>
-  <img width="434" height="362" alt="image" src="https://github.com/user-attachments/assets/bc33349f-412b-4c5b-9e9c-410ee4f0586a" /><br>
-  If <b>ls -R</b> is executed in the <b>Project_Root</b> Folder:<br>
-  <img width="463" height="460" alt="image" src="https://github.com/user-attachments/assets/ca77919f-b4fb-47f4-b114-d8752f9b0a86" /><br>
+  The <b>-R</b> Switch will list Files recursively:
+    <br>
+  In other words, it steps into every Subdirectory of every Subdirectory (maximum depth)
+    <br>
+  ### Example Folder Structure
+    <br>
+  <img width="434" height="362" alt="image" src="https://github.com/user-attachments/assets/bc33349f-412b-4c5b-9e9c-410ee4f0586a" />
+    <br>
+  If <b>ls -R</b> is executed in the <b>Project_Root</b> Folder:
+    <br>
+  <img width="463" height="460" alt="image" src="https://github.com/user-attachments/assets/ca77919f-b4fb-47f4-b114-d8752f9b0a86" />
+    <br>
   ### Alternative Solution
-  Alternatively, you can install the <b>tree</b> package to Pretty Print the <b>Folder Structure</b><br>
+  Alternatively, you can install the <b>tree</b> package to Pretty Print the <b>Folder Structure</b>
+    <br>
   To install it execute the following Command:
   - Arch Linux:
     
@@ -119,19 +124,17 @@
 
         sudo dnf install tree
   <img width="457" height="349" alt="image" src="https://github.com/user-attachments/assets/e1d60a93-c66f-4f23-8319-47cb38977bd4" />
-  </details><br>
+  </details>
+  <br>
+  
+  pwd - Print Working Directory
+  cd - Change Directory
+  mkdir - Make Directory
+  mv - Move / Rename Files & Directories
+  p - Copy Files & Directories
+  rm - Remove Files & Directories
 
-  
-  
 </details>
-
-
-pwd - Print Working Directory
-cd - Change Directory
-mkdir - Make Directory
-mv - Move / Rename Files & Directories
-p - Copy Files & Directories
-rm - Remove Files & Directories
 
 
 <details>
