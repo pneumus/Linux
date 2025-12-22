@@ -4,7 +4,7 @@ This page is intended to describe and explain <b>Basic Linux Commands</b><br>
 and their <b>switches (flags)</b>, and <b>parameters (options)</b><br>
 
 <details>
-  <summary>📁 File & Directory Management</summary><br><br><br>
+  <summary>📁 File & Directory Management</summary><br><br>
   
   <details>
   <summary>ls - List Contents of a Directory</summary>
