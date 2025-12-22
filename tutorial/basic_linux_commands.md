@@ -11,9 +11,7 @@ and their <b>switches (flags)</b>, and <b>parameters (options)</b><br>
   <summary>ls - List Contents of a Directory</summary><br>
 
   <details>
-    <summary>
-        <b>ls -a</b>
-    </summary>
+    <summary>${\color{lightgreen}\mathtt{ls \space\space -a}}$</summary><br>
     
     The <b>-a</b> switch stands for <b>ALL</b> Entries ( including the hidden ones )<br>
     <b>Note:</b> Hidden Entries have a dot ( . ) as a Starting Character<br>
