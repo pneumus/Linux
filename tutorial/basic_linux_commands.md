@@ -7,7 +7,7 @@ and their <b>switches (flags)</b>, and <b>parameters (options)</b><br>
   <summary>📁 File & Directory Management</summary><br>
   
   <details>
-  <summary>ls - List Contents of a Directory</summary><br><br>
+  <summary>ls - List Contents of a Directory</summary><br>
   
   <details>
     <summary>${\color{lightgreen}\mathtt{ls \space\space -a}}$ </summary><br>
