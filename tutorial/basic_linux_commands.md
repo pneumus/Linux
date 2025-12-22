@@ -77,20 +77,18 @@ and their <b>switches (flags)</b>, and <b>parameters (options)</b><br>
   </details>
 
   <details>
-  <summary>${\color{lightgreen}\mathtt{ls \space\space -R}}$   </summary> 
-  The <b>-R</b> Switch will list Files recursively:   
-  In other words, it steps into every Subdirectory of every Subdirectory (maximum depth)
-  ### Example Folder Structure
-  <img width="434" height="362" alt="image" src="https://github.com/user-attachments/assets/bc33349f-412b-4c5b-9e9c-410ee4f0586a" />
-  If <b>ls -R</b> is executed in the <b>Project_Root</b> Folder:
-  <img width="463" height="460" alt="image" src="https://github.com/user-attachments/assets/ca77919f-b4fb-47f4-b114-d8752f9b0a86" />
+  <summary>${\color{lightgreen}\mathtt{ls \space\space -R}}$</summary>
+  The <b>-R</b> Switch will list Files recursively:<br>
+  In other words, it steps into every Subdirectory of every Subdirectory (maximum depth)<br>
+  ### Example Folder Structure<br>
+  <img width="434" height="362" alt="image" src="https://github.com/user-attachments/assets/bc33349f-412b-4c5b-9e9c-410ee4f0586a" /><br>
+  If <b>ls -R</b> is executed in the <b>Project_Root</b> Folder:<br>
+  <img width="463" height="460" alt="image" src="https://github.com/user-attachments/assets/ca77919f-b4fb-47f4-b114-d8752f9b0a86" /><br>
   ### Alternative Solution
-  Alternatively, you can install the <b>tree</b> package to Pretty Print the <b>Folder Structure</b>   
+  Alternatively, you can install the <b>tree</b> package to Pretty Print the <b>Folder Structure</b><br>
   To install it execute the following Command:
   - Arch Linux:
-
         sudo pacman -S tree
-
   - Ubuntu Linux:
 
         sudo apt install tree
