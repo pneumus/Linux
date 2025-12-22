@@ -1,5 +1,7 @@
-    ```diff
-    + Basic Linux Commands
+```diff
+- Basic Linux Commands (This will be red)
++ This line will be green
+! This line will be orange/yellow
 
 This page is intended to describe and explain <b>Basic Linux Commands</b><br>
 and their <b>switches (flags)</b>, and <b>parameters (options)</b><br>
