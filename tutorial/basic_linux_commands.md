@@ -78,8 +78,10 @@ and their <b>switches (flags)</b>, and <b>parameters (options)</b>
   <b>Note</b>: Compare the file size column with the column in the output of <b>ls -l</b>   
   Instead of bytes, file sizes are displayed in K (kilobytes) or M (megabytes)
 
-  ## ${\color{lightgreen}\mathtt{ls \space\space\space --sort}}$
-  The <b>--sort</b> Option will sort files by the desired need   
+  <details>
+    <summary>${\color{lightgreen}\mathtt{ls \space\space\space --sort}}$</summary>
+
+     The <b>--sort</b> Option will sort files by the desired need   
   <b>Note</b>: If the Option is not specified, the <b>ls</b> Command will list alphabetically, by default   
   Every Option has a corresponding Switch ( short version )
 
@@ -94,6 +96,11 @@ and their <b>switches (flags)</b>, and <b>parameters (options)</b>
 <b>Note</b>: The Difference between <b>Modification Time (mtime)</b> and <b>Change Time (ctime)</b>   
 is that <b>mtime</b> will update only when the actual content of the file is changed   
 and <b>ctime</b> updates whenever the file's <b>inode</b> (metadata) changes   
+
+  </details>
+
+  
+ 
     
   </details>
   
