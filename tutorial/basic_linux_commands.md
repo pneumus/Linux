@@ -1,4 +1,4 @@
-# Basic Linux Commands
+<h1>Basic Linux Commands</h1>
 
 This page is intended to describe and explain <b>Basic Linux Commands</b><br>
 and their <b>switches (flags)</b>, and <b>parameters (options)</b><br>
