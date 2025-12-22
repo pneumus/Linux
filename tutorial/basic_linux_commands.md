@@ -8,15 +8,17 @@ and their <b>switches (flags)</b>, and <b>parameters (options)</b><br>
   
   <details>
   <summary>ls - List Contents of a Directory</summary><br><br>
+  
   <details>
-  <summary>${\color{lightgreen}\mathtt{ls \space\space -a}}$ </summary>
-  The <b>-a</b> switch stands for <b>ALL</b> Entries ( including the hidden ones )<br>
-  <b>Note:</b> Hidden Entries have a dot ( . ) as a Starting Character<br>
-  ```   
-  [mateo@archipelago ~]$ ls -a
-.   .bash_history  .bash_profile  .cache   Desktop    Downloads   .icons  .mozilla  Pictures  Templates  Videos
-..  .bash_logout   .bashrc        .config  Documents  .gtkrc-2.0  .local  Music     Public    .var       yay
-  ```   
+    <summary>${\color{lightgreen}\mathtt{ls \space\space -a}}$ </summary>
+    The <b>-a</b> switch stands for <b>ALL</b> Entries ( including the hidden ones )<br>
+    <b>Note:</b> Hidden Entries have a dot ( . ) as a Starting Character<br>
+    
+    ```   
+    [mateo@archipelago ~]$ ls -a
+    .   .bash_history  .bash_profile  .cache   Desktop    Downloads   .icons  .mozilla  Pictures  Templates  Videos
+    ..  .bash_logout   .bashrc        .config  Documents  .gtkrc-2.0  .local  Music     Public    .var       yay
+    ```   
   </details>
   
   <details>
