@@ -1,4 +1,5 @@
-<h1 style="color: red">Basic Linux Commands</h1>
+    ```diff
+    + Basic Linux Commands
 
 This page is intended to describe and explain <b>Basic Linux Commands</b><br>
 and their <b>switches (flags)</b>, and <b>parameters (options)</b><br>
@@ -8,7 +9,7 @@ and their <b>switches (flags)</b>, and <b>parameters (options)</b><br>
   
   <details>
   <summary>ls - List Contents of a Directory</summary><br>
-  
+
   <details>
     <summary>
         <b>ls -a</b>
