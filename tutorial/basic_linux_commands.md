@@ -1,6 +1,5 @@
-```diff
-Basic Linux Commands
-```
+# Basic Linux Commands
+<br>
 
 This page is intended to describe and explain <b>Basic Linux Commands</b><br>
 and their <b>switches (flags)</b>, and <b>parameters (options)</b><br>
