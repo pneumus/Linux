@@ -5,6 +5,13 @@
   and their <b>switches (flags)</b>, and <b>parameters (options)</b>
   <br>
 
+  <label for="commands">Choose a command:</label>
+  <select name="commands" id="commands">
+  <option value="ls">ls (List files)</option>
+  <option value="cd">cd (Change directory)</option>
+  <option value="mkdir">mkdir (Make directory)</option>
+  </select>
+
   <details>
   <summary>📁 File & Directory Management</summary>
   <br>
@@ -18,14 +25,7 @@
   <br>
   <b>Note:</b> Hidden Entries have a dot ( . ) as a Starting Character
   <br>
-  
-  <label for="commands">Choose a command:</label>
-  <select name="commands" id="commands">
-  <option value="ls">ls (List files)</option>
-  <option value="cd">cd (Change directory)</option>
-  <option value="mkdir">mkdir (Make directory)</option>
-  </select>
-  
+    
   ```   
   [mateo@archipelago ~]$ ls -a
   .   .bash_history  .bash_profile  .cache   Desktop    Downloads   .icons  .mozilla  Pictures  Templates  Videos
