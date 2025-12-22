@@ -153,4 +153,4 @@
   <summary>⭐ F.U.C.K. - Frequently Used Commands in Konsole</summary>
 </details>
 
-</details>
+
