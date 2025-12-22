@@ -115,46 +115,32 @@ and their <b>switches (flags)</b>, and <b>parameters (options)</b><br>
 
 <details>
   <summary>pwd - Print Working Directory</summary>
-  
-
 </details>
 
 
 <details>
   <summary>cd - Change Directory</summary>
-  &nbsp;   
-
 </details>
 
 
 <details>
   <summary>mkdir - Make Directory</summary>
-  &nbsp;   
-
 </details>
 
 
 <details>
   <summary>mv - Move / Rename Files & Directories</summary>
-  &nbsp;   
-
 </details>
 
 
 <details>
   <summary>cp - Copy Files & Directories</summary>
-  &nbsp;   
-
 </details>
 
 
 <details>
   <summary>rm - Remove Files & Directories</summary>
-  &nbsp;   
-
 </details>
-  
-&nbsp; &nbsp; &nbsp; 
 </details>
 
 
@@ -204,22 +190,4 @@ and their <b>switches (flags)</b>, and <b>parameters (options)</b><br>
 
 <details>
   <summary>⭐ F.U.C.K. - Frequently Used Commands in Konsole</summary>
-  &nbsp;&nbsp;&nbsp;   
-
-  <details>
-  <summary>history - See Command History</summary>
-  &nbsp;  
-    
-  ## List Command History
-  ```
-  history
-  ```   
-
-  ## history -d - Delete Entry from Command History
-  ```
-  history -d 4
-  ```   
-  </details>
-
-  &nbsp;&nbsp;&nbsp;   
 </details>
