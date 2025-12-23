@@ -23,7 +23,12 @@ Network Configuration for the Wifi
     sysctl --system
     
     # Disable Power Save
-    ACTION=="add", SUBSYSTEM=="net", KERNEL=="wlan0", RUN+="/usr/bin/iw dev %k set power_save off"
+    UDEV_FILE="/etc/udev/rules.d/81-wifi-powersave.rules"
+    cat <<EOF | tee "$UDEV_FILE" > /dev/null
+    ACTION=="add", SUBSYSTEM=="net", KERNEL=="wlan*", RUN+="/usr/bin/iw dev %k set power_save off"
+    EOF
+    udevadm control --reload-rules
+    udevadm trigger
 
 Install Desktop Apps
 
