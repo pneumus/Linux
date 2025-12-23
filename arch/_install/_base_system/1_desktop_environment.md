@@ -10,15 +10,20 @@ Network Configuration for the Wifi
 
     # Configure Reflector
     sudo reflector --country Switzerland --latest 10 --sort rate --save /etc/pacman.d/mirrorlist
+    sudo systemctl enable --now reflector.timer
     
-    # Disable ECN
-    sudo sysctl net.ipv4.tcp_ecn=0
+    # Disable ECN and IPv6
+    CONF_FILE="/etc/sysctl.d/99-custom.conf"
+    cat <<EOF | tee "$CONF_FILE" > /dev/null
+    net.ipv4.tcp_ecn = 0
+    net.ipv6.conf.all.disable_ipv6 = 1
+    net.ipv6.conf.default.disable_ipv6 = 1
+    net.ipv6.conf.lo.disable_ipv6 = 1
+    EOF
+    sysctl --system
     
-    # Disable IPv6
-    sudo sysctl -w net.ipv6.conf.all.disable_ipv6=1
-
     # Disable Power Save
-    sudo iw dev wlan0 set power_save off
+    ACTION=="add", SUBSYSTEM=="net", KERNEL=="wlan0", RUN+="/usr/bin/iw dev %k set power_save off"
 
 Install Desktop Apps
 
