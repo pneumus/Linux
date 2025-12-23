@@ -14,13 +14,19 @@ Network Configuration for the Wifi
     
     # Disable ECN and IPv6
     CONF_FILE="/etc/sysctl.d/99-custom.conf"
-    cat <<EOF | tee "$CONF_FILE" > /dev/null
+    sudo mkdir -p /etc/sysctl.d/
+    sudo bash -c "cat <<EOF > $CONF_FILE
     net.ipv4.tcp_ecn = 0
     net.ipv6.conf.all.disable_ipv6 = 1
     net.ipv6.conf.default.disable_ipv6 = 1
     net.ipv6.conf.lo.disable_ipv6 = 1
-    EOF
-    sysctl --system
+    EOF"
+    if [ $? -eq 0 ]; then
+    echo "Successfully updated $CONF_FILE"
+    sudo sysctl --system
+    else
+        echo "Failed to write to $CONF_FILE"
+    fi
     
     # Disable Power Save
     UDEV_FILE="/etc/udev/rules.d/81-wifi-powersave.rules"
