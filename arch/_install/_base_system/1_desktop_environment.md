@@ -30,11 +30,11 @@ Network Configuration for the Wifi
     
     # Disable Power Save
     UDEV_FILE="/etc/udev/rules.d/81-wifi-powersave.rules"
-    cat <<EOF | tee "$UDEV_FILE" > /dev/null
-    ACTION=="add", SUBSYSTEM=="net", KERNEL=="wlan*", RUN+="/usr/bin/iw dev %k set power_save off"
-    EOF
-    udevadm control --reload-rules
-    udevadm trigger
+    sudo bash -c "cat <<EOF > $UDEV_FILE
+    ACTION==\"add\", SUBSYSTEM==\"net\", KERNEL==\"wlan*\", RUN+=\"/usr/bin/iw dev %k set power_save off\"
+    EOF"
+    sudo udevadm control --reload-rules
+    sudo udevadm trigger
 
 Install Desktop Apps
 
