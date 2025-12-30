@@ -9,6 +9,7 @@ Install Basic Tools
 Network Configuration for the Wifi
 
     # Configure Reflector
+    sudo pacman -Sy --noconfirm reflector
     sudo reflector --country Switzerland --latest 10 --sort rate --save /etc/pacman.d/mirrorlist
     sudo systemctl enable --now reflector.timer
     
