@@ -151,7 +151,7 @@
 
 <details>
   <summary>⭐ F.U.C.K. - Frequently Used Commands in Konsole</summary>
-
+  <br>
   <details>
     <summary>💿 Mounting Image Files</summary>
   </details>
