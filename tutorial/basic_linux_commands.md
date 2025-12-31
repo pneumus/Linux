@@ -157,6 +157,7 @@
   <br>
   <details>
   <summary>BIN/CUE</summary>
+  <br>
   Install bchunk
     
     sudo pacman -S bchunk
