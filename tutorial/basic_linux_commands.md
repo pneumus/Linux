@@ -154,6 +154,13 @@
   <br>
   <details>
     <summary>💿 Mounting Image Files</summary>
+    <br>
+    <details>
+      <summary>BIN/CUE</summary>
+      Install bchunk
+      ```sh
+      sudo pacman -S bchunk```   
+    </details>
   </details>
 </details>
 
