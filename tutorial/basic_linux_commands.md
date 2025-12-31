@@ -153,14 +153,25 @@
   <summary>⭐ F.U.C.K. - Frequently Used Commands in Konsole</summary>
   <br>
   <details>
-    <summary>💿 Mounting Image Files</summary>
-    <br>
-    <details>
-      <summary>BIN/CUE</summary>
-      Install bchunk
-      ```sh
-      sudo pacman -S bchunk```   
-    </details>
+  <summary>💿 Mounting Image Files</summary>
+  <br>
+  <details>
+  <summary>BIN/CUE</summary>
+  Install bchunk
+    
+    sudo pacman -S bchunk
+    
+  Convert BIN/CUE Files to ISO
+
+      
+    bchunk image.bin image.cue output.iso
+      
+
+  Mount the ISO File
+  
+    sudo mount -o loop output.iso /mnt
+  
+  </details>
   </details>
 </details>
 
