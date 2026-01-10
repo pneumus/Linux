@@ -12,5 +12,5 @@
 
 5. Edit the Config File for Waydroid   
    
-       sudo nano /var/lib/waydroid/lxc/waydroid/config
+       sudo gedit /var/lib/waydroid/lxc/waydroid/config
 6. 
