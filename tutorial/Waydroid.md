@@ -17,7 +17,10 @@
 
          lxc.cgroup.devices.allow = c 189:* rwm
          lxc.mount.entry = /dev/bus/usb/003/032 dev/bus/usb/003/032 none bind,optional,create=file
-7. Restart <b>Waydroid</b>
+7. Give Permission to the Device
+
+         sudo chmod 666 /dev/bus/usb/003/032
+9. Restart <b>Waydroid</b>
          
          waydroid session stop
          waydroid session start
