@@ -13,4 +13,8 @@
 5. Edit the Config File for Waydroid   
    
        sudo gedit /var/lib/waydroid/lxc/waydroid/config
-6. 
+6. Allow <b>Waydroid</b> to access this specific <b>USB device</b> (Bus 003, Device 032)
+
+         lxc.cgroup.devices.allow = c 189:* rwm
+         lxc.mount.entry = /dev/bus/usb/003/032 dev/bus/usb/003/032 none bind,optional,create=file
+7. 
