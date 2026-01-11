@@ -19,4 +19,11 @@
 5. Right Click the Solid Color Clip on the Timeline
 6. Select "Clip Color" ( Or "Inspector" in the Top Right Corner )
 
-## 
+## Import an Image to the Frame
+1. Click "Media Pool" ( Top Left Corner )
+2. Press Ctrl+I and select the Image
+3. Drag your Imported Image to the Timeline ( Video Track 2 - V2 )
+4. Resize the Image under Inspector ( Top Right Corner ) > Transform > Zoom
+
+## Move an Image on a Trajectory
+1. 
