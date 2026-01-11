@@ -10,10 +10,8 @@
 5. Start the installation
       sudo ./davinci_resolve_installer.run -i
 
-## Add a Blank Frame ( Solid Color )
-### Create a New Project
-
-### Add Solid Background
+## Add a Frame with Solid Color
+1. Create a New Project
 1. Click "Effects" ( Top Left Corner )
 2. Select "Generators" ( Top Left Corner )
 3. Select "Solid Color" ( Generators Section )
@@ -21,4 +19,4 @@
 5. Right Click the Solid Color Clip on the Timeline
 6. Select "Clip Color" ( Or "Inspector" in the Top Right Corner )
 
-### 
+## 
