@@ -31,4 +31,13 @@
       - In the Inspector > Transform section, find Position
       - Click the small Diamond Icon (Keyframe button)
 ### 2. Create the Trajectory
-      - 
+      - Move the playhead forward in the timeline (e.g., move it 2 seconds forward).
+      - Now, change the Position X and Position Y values in the Inspector to move the image to a new spot. 
+      (Alternatively, you can click the rectangular "Transform" icon just below the video viewer to drag the image manually on screen).
+      - Note: A new keyframe is automatically created as soon as you move the image.
+### 3. Add Curves or Corners (Specific Trajectory)
+      - To make a complex path (not just a straight line), move the playhead forward again, and move the image to a third position.
+      - Repeat this for as many turns or curves as you need.
+### 4. Visualize the Path
+      - To see the actual line (trajectory) the image will follow, make sure the Transform On-Screen Control is active 
+      (click the box icon in the bottom-left corner of the video viewer). You will see a dotted line representing your animation path.
