@@ -26,4 +26,9 @@
 4. Resize the Image under Inspector ( Top Right Corner ) > Transform > Zoom
 
 ## Move an Image on a Trajectory
-1. 
+### 1. Set the Starting Point
+      - Move your timeline playhead (the red vertical line) to where you want the movement to start
+      - In the Inspector > Transform section, find Position
+      - Click the small Diamond Icon (Keyframe button)
+### 2. Create the Trajectory
+      - 
