@@ -1,7 +1,7 @@
 # Davinci Resolve Tutorial
 
 <details>
-      <summary>Install Davinci Resolve on Arch Linux</summary>
+<summary>Install Davinci Resolve on Arch Linux</summary>
       <br>
       <br>
       1. Download the software from the [website](https://www.blackmagicdesign.com/products/davinciresolve)
@@ -12,7 +12,6 @@
             chmod +x ./davinci_resolve_installer.run
       5. Start the installation
             sudo ./davinci_resolve_installer.run -i
-
 </details>
 
 <details>
