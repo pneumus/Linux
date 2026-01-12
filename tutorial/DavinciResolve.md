@@ -19,9 +19,9 @@
       Select Effects > Generators > Solid Color
       <br>
       <img width="640" height="220" alt="image" src="https://github.com/user-attachments/assets/c5694c91-56bb-45be-8da6-4d8be362bff6" />
-
-   
-7. Drag "Solid Color" to your Timeline ( Video Track 01 - V1 )
+      <br>
+      Drag "Solid Color" to your Timeline ( Video Track 01 - V1 )
+      
 8. Right Click the Solid Color Clip on the Timeline
 9. Select "Clip Color" ( Or "Inspector" in the Top Right Corner )
 </details>
