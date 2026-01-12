@@ -34,6 +34,11 @@
 </details>
 
 <details>
+      <br>
+      <br>
+      Download a Transparent PNG ( i.e.: cleanpng.com / pngwing.com / stickpng.com / pixabay.com)
+      <br>
+      <br>
       <summary>Import an Image to the Frame</summary>
       <br>
       <br>
