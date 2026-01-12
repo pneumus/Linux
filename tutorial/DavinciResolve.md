@@ -16,23 +16,15 @@
 <details>
       <summary>Add a Frame with Solid Color</summary>
 
-1. Right Click > New Project 
-   <br>
-   <img width="604" height="278" alt="image" src="https://github.com/user-attachments/assets/edc9b213-7b52-42f7-8058-2fd136164a93" />
-
-
 1. Click "Effects" ( Top Left Corner )
-   <br>
-   <img width="604" height="278" alt="image" src="https://github.com/user-attachments/assets/94104269-87c9-4d20-968e-a9811599c289" />
+2. Select "Generators" ( Top Left Corner )
+3. Select "Solid Color" ( Generators Section )
+   <img width="640" height="220" alt="image" src="https://github.com/user-attachments/assets/c5694c91-56bb-45be-8da6-4d8be362bff6" />
 
-3. Select "Generators" ( Top Left Corner )
-   <br>
-   <img width="604" height="90" alt="image" src="https://github.com/user-attachments/assets/1e8d538b-c6af-41d2-b357-88d0e3793951" />
-
-5. Select "Solid Color" ( Generators Section )
-6. Drag "Solid Color" to your Timeline ( Video Track 01 - V1 )
-7. Right Click the Solid Color Clip on the Timeline
-8. Select "Clip Color" ( Or "Inspector" in the Top Right Corner )
+   
+7. Drag "Solid Color" to your Timeline ( Video Track 01 - V1 )
+8. Right Click the Solid Color Clip on the Timeline
+9. Select "Clip Color" ( Or "Inspector" in the Top Right Corner )
 </details>
 
 
