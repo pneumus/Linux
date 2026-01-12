@@ -28,7 +28,7 @@
       <img width="640" height="400" alt="image" src="https://github.com/user-attachments/assets/36321c56-ccb5-4670-99eb-40c37b821a30" />
       <br>
       <br>
-      Alternatively: Select your Clip in the Timeline. Click Inspector > Color
+      To Change Color: Select your Clip in the Timeline. Click Inspector > Color
       <br>
       <br>
       <img width="640" height="600" alt="image" src="https://github.com/user-attachments/assets/4d182bde-3ebb-47d5-bdf4-117395012424" />
