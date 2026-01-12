@@ -28,12 +28,6 @@
       <img width="640" height="400" alt="image" src="https://github.com/user-attachments/assets/36321c56-ccb5-4670-99eb-40c37b821a30" />
       <br>
       <br>
-      Right Click the Solid Color Clip on the Timeline
-      <br>
-      <br>
-      <img width="640" height="380" alt="image" src="https://github.com/user-attachments/assets/d9c85d8e-9c1c-472b-8fbf-57b40979ef24" />
-      <br>
-      <br>
       Alternatively: Select your Clip in the Timeline. Click Inspector > Color
       <br>
       <br>
