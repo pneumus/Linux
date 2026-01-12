@@ -13,9 +13,9 @@
       sudo ./davinci_resolve_installer.run -i
 </details>
 
+<details>
+      <summary>Add a Frame with Solid Color</summary>
 
-
-## Add a Frame with Solid Color
 1. Create a New Project
 1. Click "Effects" ( Top Left Corner )
 2. Select "Generators" ( Top Left Corner )
@@ -23,6 +23,10 @@
 4. Drag "Solid Color" to your Timeline ( Video Track 01 - V1 )
 5. Right Click the Solid Color Clip on the Timeline
 6. Select "Clip Color" ( Or "Inspector" in the Top Right Corner )
+</details>
+
+
+
 
 ## Import an Image to the Frame
 1. Click "Media Pool" ( Top Left Corner )
