@@ -31,7 +31,6 @@
       <br>
       <br>
       <img width="640" height="600" alt="image" src="https://github.com/user-attachments/assets/7ae4e0eb-b967-426b-85aa-f00050350e1c" />
-
 </details>
 
 <details>
@@ -48,13 +47,19 @@
       <br>
       <br>
       <img width="640" height="550" alt="image" src="https://github.com/user-attachments/assets/15a8ca43-deca-4535-ba8c-319a659fdc12" />
+      <br>
+      <br>
+      Resize the Image under Inspector ( Top Right Corner ) > Transform > Zoom
+      <br>
+      <br>
+      <img width="640" height="550" alt="image" src="https://github.com/user-attachments/assets/c26aa5b9-e1de-430a-92df-4b9fb45edde3" />
 
       
 </details>
 
 
 
-4. Resize the Image under Inspector ( Top Right Corner ) > Transform > Zoom
+
 
 ## Move an Image on a Trajectory
 ### 1. Set the Starting Point
