@@ -32,8 +32,13 @@
       <br>
       <br>
       <img width="640" height="380" alt="image" src="https://github.com/user-attachments/assets/d9c85d8e-9c1c-472b-8fbf-57b40979ef24" />
+      <br>
+      <br>
+      Alternatively: Select your Clip in the Timeline. Click Inspector > Color
+      <br>
+      <br>
+      <img width="640" height="550" alt="image" src="https://github.com/user-attachments/assets/d3837e84-7cfa-48ce-8ea2-a6aee3e430fd" />
 
-9. Select "Clip Color" ( Or "Inspector" in the Top Right Corner )
 </details>
 
 
