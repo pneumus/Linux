@@ -15,7 +15,7 @@
 
 <details>
       <summary>Add a Frame with Solid Color</summary>
-
+<br>
 Select Effects > Generators > Solid Color
    <br>
    <br>
