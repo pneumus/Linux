@@ -18,6 +18,7 @@
       <br>
       Select Effects > Generators > Solid Color
       <br>
+      <br>
       <img width="640" height="220" alt="image" src="https://github.com/user-attachments/assets/c5694c91-56bb-45be-8da6-4d8be362bff6" />
       <br>
       Drag "Solid Color" to your Timeline ( Video Track 01 - V1 )
