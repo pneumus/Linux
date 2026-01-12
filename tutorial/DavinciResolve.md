@@ -22,11 +22,14 @@
 
 
 1. Click "Effects" ( Top Left Corner )
-2. Select "Generators" ( Top Left Corner )
-3. Select "Solid Color" ( Generators Section )
-4. Drag "Solid Color" to your Timeline ( Video Track 01 - V1 )
-5. Right Click the Solid Color Clip on the Timeline
-6. Select "Clip Color" ( Or "Inspector" in the Top Right Corner )
+   <br>
+   <img width="604" height="278" alt="image" src="https://github.com/user-attachments/assets/94104269-87c9-4d20-968e-a9811599c289" />
+
+3. Select "Generators" ( Top Left Corner )
+4. Select "Solid Color" ( Generators Section )
+5. Drag "Solid Color" to your Timeline ( Video Track 01 - V1 )
+6. Right Click the Solid Color Clip on the Timeline
+7. Select "Clip Color" ( Or "Inspector" in the Top Right Corner )
 </details>
 
 
