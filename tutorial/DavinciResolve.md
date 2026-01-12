@@ -52,9 +52,7 @@
       Resize the Image under Inspector ( Top Right Corner ) > Transform > Zoom
       <br>
       <br>
-      <img width="640" height="550" alt="image" src="https://github.com/user-attachments/assets/c26aa5b9-e1de-430a-92df-4b9fb45edde3" />
-
-      
+      <img width="640" height="550" alt="image" src="https://github.com/user-attachments/assets/e3af0109-73a2-4673-9b10-b706fb61143a" />
 </details>
 
 
