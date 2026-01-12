@@ -59,23 +59,23 @@
       <img width="640" height="550" alt="image" src="https://github.com/user-attachments/assets/e3af0109-73a2-4673-9b10-b706fb61143a" />
 </details>
 
-
-
-
-
-## Move an Image on a Trajectory
-### 1. Set the Starting Point
+<details>
+<summary>Move an Image on a Trajectory</summary>
+1. Set the Starting Point
 - Move your timeline playhead (the red vertical line) to where you want the movement to start
 - In the Inspector > Transform section, find Position
 - Click the small Diamond Icon (Keyframe button)
-### 2. Create the Trajectory
+2. Create the Trajectory
 - Move the playhead forward in the timeline (e.g., move it 2 seconds forward).
 - Now, change the Position X and Position Y values in the Inspector to move the image to a new spot. 
 (Alternatively, you can click the rectangular "Transform" icon just below the video viewer to drag the image manually on screen).
 - Note: A new keyframe is automatically created as soon as you move the image.
-### 3. Add Curves or Corners (Specific Trajectory)
+3. Add Curves or Corners (Specific Trajectory)
 - To make a complex path (not just a straight line), move the playhead forward again, and move the image to a third position.
 - Repeat this for as many turns or curves as you need.
-### 4. Visualize the Path
+4. Visualize the Path
 - To see the actual line (trajectory) the image will follow, make sure the Transform On-Screen Control is active 
-(click the box icon in the bottom-left corner of the video viewer). You will see a dotted line representing your animation path.
+(click the box icon in the bottom-left corner of the video viewer). You will see a dotted line representing your animation path.      
+</details>
+
+
