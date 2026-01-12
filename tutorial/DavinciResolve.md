@@ -32,16 +32,21 @@
       <br>
       <img width="640" height="600" alt="image" src="https://github.com/user-attachments/assets/7ae4e0eb-b967-426b-85aa-f00050350e1c" />
 
-
-      
-
 </details>
 
+<details>
+      <summary>Import an Image to the Frame</summary>
+      <br>
+      <br>
+      Click "Media Pool" ( Top Left Corner ) > Press "Ctrl+I" > Select Image
+      <br>
+      <br>
+      <img width="640" height="500" alt="image" src="https://github.com/user-attachments/assets/caa53bbf-2526-4769-b02a-afec1e42c971" />
 
+      
+</details>
 
-
-## Import an Image to the Frame
-1. Click "Media Pool" ( Top Left Corner )
+1. 
 2. Press Ctrl+I and select the Image
 3. Drag your Imported Image to the Timeline ( Video Track 2 - V2 )
 4. Resize the Image under Inspector ( Top Right Corner ) > Transform > Zoom
