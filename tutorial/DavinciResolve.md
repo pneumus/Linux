@@ -16,9 +16,10 @@
 <details>
       <summary>Add a Frame with Solid Color</summary>
 
-1. Create a New Project
+1. Right Click > New Project 
    <br>
-   <img width="614" height="276" alt="image" src="https://github.com/user-attachments/assets/fe669ba2-39b3-4f52-ad72-9f98a28dbec1" />
+   <img width="604" height="278" alt="image" src="https://github.com/user-attachments/assets/edc9b213-7b52-42f7-8058-2fd136164a93" />
+
 
 1. Click "Effects" ( Top Left Corner )
 2. Select "Generators" ( Top Left Corner )
