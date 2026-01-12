@@ -2,8 +2,6 @@
 
 <details>
 <summary>Install Davinci Resolve on Arch Linux</summary>
-      <br>
-      <br>
       1. Download the software from the [website](https://www.blackmagicdesign.com/products/davinciresolve)
       2. Install prerequisites
             pacman -S fuse
