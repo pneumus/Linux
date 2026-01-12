@@ -30,7 +30,8 @@
       To Change Color: Select your Clip in the Timeline. Click Inspector > Color
       <br>
       <br>
-      <img width="640" height="600" alt="image" src="https://github.com/user-attachments/assets/4d182bde-3ebb-47d5-bdf4-117395012424" />
+      <img width="640" height="600" alt="image" src="https://github.com/user-attachments/assets/7ae4e0eb-b967-426b-85aa-f00050350e1c" />
+
 
       
 
