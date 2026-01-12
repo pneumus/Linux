@@ -12,6 +12,7 @@
             chmod +x ./davinci_resolve_installer.run
       5. Start the installation
             sudo ./davinci_resolve_installer.run -i
+
 </details>
 
 <details>
