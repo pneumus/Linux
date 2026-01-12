@@ -42,13 +42,18 @@
       <br>
       <br>
       <img width="640" height="500" alt="image" src="https://github.com/user-attachments/assets/caa53bbf-2526-4769-b02a-afec1e42c971" />
+      <br>
+      <br>
+      Drag your Imported Image to the Timeline and Left Click it
+      <br>
+      <br>
+      <img width="640" height="550" alt="image" src="https://github.com/user-attachments/assets/15a8ca43-deca-4535-ba8c-319a659fdc12" />
 
       
 </details>
 
-1. 
-2. Press Ctrl+I and select the Image
-3. Drag your Imported Image to the Timeline ( Video Track 2 - V2 )
+
+
 4. Resize the Image under Inspector ( Top Right Corner ) > Transform > Zoom
 
 ## Move an Image on a Trajectory
