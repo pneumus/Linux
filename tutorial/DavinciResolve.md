@@ -16,9 +16,7 @@
 <details>
       <summary>Add a Frame with Solid Color</summary>
 
-1. Click "Effects" ( Top Left Corner )
-2. Select "Generators" ( Top Left Corner )
-3. Select "Solid Color" ( Generators Section )
+Select Effects > Generators > Solid Color
    <br>
    <br>
    <img width="640" height="220" alt="image" src="https://github.com/user-attachments/assets/c5694c91-56bb-45be-8da6-4d8be362bff6" />
