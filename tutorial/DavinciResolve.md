@@ -63,8 +63,12 @@
 <summary>Move an Image on a Trajectory</summary>
       <br>
       <br>
-      1. Set the Starting Point
-      - Move your timeline playhead (the red vertical line) to where you want the movement to start
+      Move your timeline playhead (the red vertical line) to where you want the movement to start
+      <br>
+      <br>
+      <img width="640" height="440" alt="image" src="https://github.com/user-attachments/assets/e75cec78-aa55-4675-8d84-d4381e635bb9" />
+      <br>
+      <br>
       - In the Inspector > Transform section, find Position
       - Click the small Diamond Icon (Keyframe button)
       <br>
