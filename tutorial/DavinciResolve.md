@@ -60,13 +60,13 @@
 </details>
 
 <details>
-<summary>Move an Image on a Trajectory</summary>
+<summary>Simple Linear Image Movement</summary>
       <br>
       <br>
       Move your timeline playhead (the red vertical line) to where you want the movement to start
       <br>
       <br>
-      <img width="640" height="440" alt="image" src="https://github.com/user-attachments/assets/e75cec78-aa55-4675-8d84-d4381e635bb9" />
+      <img width="640" height="380" alt="image" src="https://github.com/user-attachments/assets/28168f6b-75f3-4ab2-847b-5fe09f027305" />
       <br>
       <br>
       - In the Inspector > Transform section, find Position
