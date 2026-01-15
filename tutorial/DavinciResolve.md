@@ -63,10 +63,13 @@
 <summary>Simple Linear Image Movement</summary>
       <br>
       <br>
+      Add an Image to your Canvas ( See: Import an Image to the Frame )
+      <br>
+      <br>
       Move your timeline playhead (the red vertical line) to where you want the movement to start
       <br>
       <br>
-      <img width="640" height="380" alt="image" src="https://github.com/user-attachments/assets/28168f6b-75f3-4ab2-847b-5fe09f027305" />
+      <img width="927" height="551" alt="image" src="https://github.com/user-attachments/assets/ac2b0b0b-fbc3-4731-aef5-5348c28b3c85" />
       <br>
       <br>
       - In the Inspector > Transform section, find Position
