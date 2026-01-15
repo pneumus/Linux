@@ -72,6 +72,12 @@
       <img width="640" height="380" alt="image" src="https://github.com/user-attachments/assets/ac2b0b0b-fbc3-4731-aef5-5348c28b3c85" />
       <br>
       <br>
+      Select your Object in the Timeline, and Use the Zoom and Position tools to Resize and Move the Object to the Starting Position
+      <br>
+      <br>
+      <img width="640" height="550" alt="image" src="https://github.com/user-attachments/assets/6e445cc4-4e41-4902-880c-5845f0b478d4" />
+      <br>
+      <br>
       - In the Inspector > Transform section, find Position
       - Click the small Diamond Icon (Keyframe button)
       <br>
