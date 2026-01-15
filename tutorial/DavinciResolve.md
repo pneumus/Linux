@@ -75,7 +75,7 @@
       Select your Object in the Timeline, and Use the Zoom and Position tools to Resize and Move the Object to the Starting Position
       <br>
       <br>
-      <img width="640" height="550" alt="image" src="https://github.com/user-attachments/assets/6e445cc4-4e41-4902-880c-5845f0b478d4" />
+      <img width="640" height="550" alt="image" src="https://github.com/user-attachments/assets/c219e7a1-e76c-41e5-89ed-7b0275194d72" />
       <br>
       <br>
       - In the Inspector > Transform section, find Position
