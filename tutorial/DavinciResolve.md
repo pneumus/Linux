@@ -78,8 +78,10 @@
       <img width="640" height="550" alt="image" src="https://github.com/user-attachments/assets/c219e7a1-e76c-41e5-89ed-7b0275194d72" />
       <br>
       <br>
-      - In the Inspector > Transform section, find Position
-      - Click the small Diamond Icon (Keyframe button)
+      After Moving and Resizing the Object you should click the Diamond Icon to Lock the Starting Position
+      <br>
+      <br>
+      <img width="640" height="500" alt="image" src="https://github.com/user-attachments/assets/1eb75c6a-5e13-49c0-bfc1-12ec47d2112e" />
       <br>
       <br>
 2. Create the Trajectory
