@@ -91,6 +91,7 @@
       <br>
       <br>
       ![output](https://github.com/user-attachments/assets/f6e9d933-c840-443b-a2b5-983bca008057)
+      <img src="https://github.com/user-attachments/assets/f6e9d933-c840-443b-a2b5-983bca008057" width="500" height="auto">
       <br>
       <br>
 </details>
