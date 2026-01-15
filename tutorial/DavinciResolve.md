@@ -90,7 +90,6 @@
       <img width="640" height="550" alt="image" src="https://github.com/user-attachments/assets/e04ac51c-a006-4eb6-9f3c-276714dc15f4" />
       <br>
       <br>
-      ![output](https://github.com/user-attachments/assets/f6e9d933-c840-443b-a2b5-983bca008057)
       <img src="https://github.com/user-attachments/assets/f6e9d933-c840-443b-a2b5-983bca008057" width="500" height="auto">
       <br>
       <br>
