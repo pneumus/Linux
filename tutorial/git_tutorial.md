@@ -189,12 +189,18 @@
     git add config.xml
 
   <li>Adding all Untracked Files ( NOT RECOMMENDED! )</li>
-  <blockquote>
-    This command is only useful if you created a brand new repository
-    <br>
-    or you know exactly what you're doing and want to add all Files in your folder to the Repo
-  </blockquote>
+  
     git add .
+  
+  <blockquote>
+    This command is only useful if you created a 
+    <br>
+    brand new repository and want to add all files in your folder
+    <br>
+    or you know exactly what you're doing
+  </blockquote>
+  
+  
   
   <li>Deleting Files</li>
   <blockquote>
