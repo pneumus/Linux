@@ -22,5 +22,13 @@
 
 <details>
   <summary>Push Local Repo to Server</summary>
-  
+  <br>
+  <ul>
+    <li>Add all full Folder Content to the Repo</li>
+
+    ```
+    git add .
+    ```
+    
+  </ul>
 </details>
