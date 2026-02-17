@@ -5,9 +5,9 @@
 <details>
   <summary>Create a Local Repository</summary>
   <br>
-  +Create a Folder
+  + Create a Folder
   <br>
-  *Execute this command in the folder:
+  * Execute this command in the folder:
   
   ```
   git init
