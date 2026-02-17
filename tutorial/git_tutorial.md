@@ -277,11 +277,16 @@
   <li>Update your Local Branch with any New Commits from the Server</li>
 
     git pull
-  
+
+  <li>Congratz! You have successfully switched to a different branch and your local repo is up-to-date! 😺</li>
   </details>
 
   <details>
     <summary>🙂 The Usual Path - Committing or Stashing</summary>
+  </details>
+
+  <details>
+    <summary>😠 The Unhappy Path - 
   </details>
 </ul>
 </details>
