@@ -72,7 +72,11 @@
   <li>See your Current State</li>
 
     git status
-  <blockquote>Note: You can see your Current Branch, and also if there is something to Commit. Sample:</blockquote>
+    
+  <blockquote>Note: You can see your Current Branch, and also if there is something to Commit. 
+    <br>
+    Sample Response:
+  </blockquote>
     
     On branch main
     Your branch is up to date with 'origin/main'.    
@@ -81,15 +85,18 @@
 
   <li>Download (Sync) all data from the Server</li>
   <br>
-  <blockquote>Recommended: Start every day with a good fresh fetching!</blockquote>
     
     git fetch
-  
+
+  <blockquote>Recommended: Start every day with a good fresh fetching!</blockquote>
   <li>List all Remote Branches</li>
   
     git branch -r
 
-  <blockquote>Note: "origin" means it is a remote branch. The remote "HEAD" is the default branch. Sample:</blockquote>
+  <blockquote>Note: "origin" means it is a remote branch. The remote "HEAD" is the default branch. 
+    <br>
+    Sample Response:
+  </blockquote>
     
     origin/HEAD -> origin/main
     origin/SampleBranch1
@@ -100,7 +107,10 @@
 
     git branch
 
-  <blockquote>Note: The "default" Branch is highlighted with an asterisk. Sample Response:</blockquote>
+  <blockquote>Note: The "default" Branch is highlighted with an asterisk. 
+    <br>
+    Sample Response:
+  </blockquote>
 
     SampleBranch1
     SampleBranch2
