@@ -106,5 +106,15 @@
     SampleBranch2
     * main
 
+  <li>See Commit History - Your Time Machine</li>
+
+    git log
+
+  <blockquote>
+    The Commit History will show you the local HEAD state as well ( HEAD -> main ), See: git branch: *main
+    <br>
+    
+  </blockquote>
+    
   </ul>
 </details>
