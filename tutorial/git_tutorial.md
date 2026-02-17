@@ -3,7 +3,7 @@
 ### The top most used Git Commands
 
 <details>
-  <summary>Create a Local Repository</summary>
+  <summary>Create a Local Repository and push it to the Server</summary>
   <br>
   <ul>
   <li>Create a Folder and Open it</li>
@@ -16,10 +16,6 @@
     git init
 
   <ul>
-</details>
-
-<details>
-<summary>Push Local Repo to Server</summary>
   <br>
   <ul>
   <li>Add some Source Files</li>
