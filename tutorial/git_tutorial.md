@@ -69,6 +69,10 @@
   <summary>Watching your Data</summary>
   <br>
   <ul>
+  <li>See your Current State</li>
+
+    git status
+
   <li>Download (Sync) all data from the Server</li>
   <br>
   <blockquote>Recommended: Start every day with a good fresh fetching!</blockquote>
