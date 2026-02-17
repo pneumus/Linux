@@ -7,7 +7,7 @@
   <br>
   + Create a Folder
   <br>
-  * Execute this command in the folder:
+  + Execute this command in the folder:
   
   ```
   git init
