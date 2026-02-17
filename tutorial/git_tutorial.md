@@ -54,7 +54,7 @@
 <details>
   <summary>Clone Remote Repository from the Server</summary>
   <br>
-  <aside> Cloning is the "other way around" when you start from the Server
+  <small> Cloning is the "other way around" when you start from the Server
   <ul>
     <li>Login to GitHub / GitLab / BitBucket ...etc.</li>
     <li>Create a New Repository (and populate it)</li>
