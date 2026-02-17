@@ -35,9 +35,10 @@
       <li>Login to GitHub / GitLab / BitBucket ...etc.</li>
       <li>Create an Empty Repository</li>
       <li>Optionally: Add your SSH / GPG Key or Personal Access Token </li>
-    </ul>
-
-  <li></li>
-  
-  </ul>
+      <li>Link the Local Repo to the Remote Repo</li>
+      
+      ```
+      git remote add origin https://github.com/your-username/your-repo-name.git
+      ```
+      
 </details>
