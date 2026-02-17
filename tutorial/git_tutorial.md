@@ -222,8 +222,13 @@
     <br>
     Committing the Files is Necessary
   </blockquote>
+
+    git commit -am "Your commit message"
   
-  <li></li>
+  <li>Finally: You can push to changes to the Server</li>
+
+    git push
+  
   </ul>
 </details>
 
