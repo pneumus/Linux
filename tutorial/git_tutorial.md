@@ -297,7 +297,7 @@
     <br>
     And your branch will be restored to the last commit.
     <br>
-    Even <b>git reflog</b> can not restore the lost files - no way back.
+    Even <b>git reflog</b> can not restore the lost files: There is no way back.
   </blockquote>
 
     git reset --hard HEAD
