@@ -281,7 +281,7 @@
   </details>
 
   <details>
-    <summary>🙂 The Usual Path</summary>
+    <summary>🙂 The Usual Path - Committing or Stashing</summary>
   </details>
 </ul>
 </details>
