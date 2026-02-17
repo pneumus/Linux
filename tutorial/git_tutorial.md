@@ -249,7 +249,7 @@
     Your branch is up to date with 'origin/main'.    
     nothing to commit, working tree clean
   
-  <li>If nothing to commit, Update your Repo</li>
+  <li>If nothing to commit, Update your Local Repo</li>
 
     git fetch
 
