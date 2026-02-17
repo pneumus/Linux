@@ -174,7 +174,7 @@
     <br>
     Git will not "see" it
     <br>
-    because it is not tracked yet,
+    because they are not tracked yet,
     <br>
     therefore you need to add it to the Repo
   </blockquote>
