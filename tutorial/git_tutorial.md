@@ -166,6 +166,7 @@
 
 <details>
   <summary>🗒️ Adding & Removing Files</summary>
+  <br>
   <ul>
   <li>Adding New File(s) to the Repository</li>
   <blockquote>
