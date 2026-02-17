@@ -189,7 +189,11 @@
     git add config.xml
 
   <li>Deleting Files</li>
-  <blockquote>If you delete a file in your OS, it is not removed from the Repo yet</blockquote>
+  <blockquote>
+    If you delete a file in your OS, it is not removed from the Repo yet
+    <br>
+    git rm will remove it from the Repo and Delete it from your folder as well
+  </blockquote>
   
     git rm config.xml
 
