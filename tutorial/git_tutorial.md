@@ -197,7 +197,8 @@
   <li>Switch to the Branch ( SampleBranch2 in the below Sample )</li>
 
     git switch SampleBranch2
-  
+
+  <blockquote>Note: We don't use git checkout since August 2019 to switch between branches. It's safer!</blockquote>
   </details>
 </ul>
 </details>
