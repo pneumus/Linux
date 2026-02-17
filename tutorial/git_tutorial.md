@@ -133,7 +133,9 @@
 
     git branch
 
-  <blockquote>Note: The "default" Branch is highlighted with an asterisk. 
+  <blockquote>Note: The "current local" Branch is highlighted with an asterisk.
+    <br>
+    The local HEAD points to this Branch.
     <br>
     Sample Response:
   </blockquote>
