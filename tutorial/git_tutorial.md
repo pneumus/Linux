@@ -1,7 +1,5 @@
 # A Simple Git Tutorial
 
-### The top most used Git Commands
-
 <details>
   <summary>🪪 Set your Identity</summary>
   <br>
