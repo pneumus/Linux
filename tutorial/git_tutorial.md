@@ -34,7 +34,7 @@
     <ul>
       <li>Login to GitHub / GitLab / BitBucket ...etc.</li>
       <li>Create an Empty Repository</li>
-      <li>Optionally: Add your SSH / GPG Key or Personal Access Token</li>
+      <li>Optionally: Add your SSH / GPG Key or Personal Access Token </li>
     </ul>
 
   <li></li>
