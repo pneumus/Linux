@@ -93,7 +93,9 @@
   
     git branch -r
 
-  <blockquote>Note: "origin" means it is a remote branch. The remote "HEAD" is the default branch. 
+  <blockquote>Note: "origin" means it is a remote branch. 
+    <br>
+    The remote "HEAD" points to the default branch. 
     <br>
     Sample Response:
   </blockquote>
