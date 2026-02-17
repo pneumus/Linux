@@ -19,7 +19,7 @@
 </details>
 
 <details>
-  <summary>Push Local Repo to Server</summary>
+<summary>Push Local Repo to Server</summary>
   <br>
   <ul>
   <li>Add some Source Files</li>
@@ -67,6 +67,6 @@
     <li>Clone the Repository</li>
 
       git clone https://github.com/your-username/your-repo-name.git
-    
+    <li></li>
   </ul>
 </details>
