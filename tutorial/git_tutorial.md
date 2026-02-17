@@ -31,8 +31,10 @@
     git commit -m "Initial Commit Message"
 
   <li>Create a Remote Repository</li>
-    <li>1. Login to GitHub / GitLab / BitBucket ...etc.</li>
-    <li>2. Create an Empty Repository</li>
+    1. Login to GitHub / GitLab / BitBucket ...etc.
+    <br>
+    2. Create an Empty Repository
+    <br>
     ##### Note: Do not initialize the Repo with ReadMe / .gitignore ...etc. it must be empty!
   
   </ul>
