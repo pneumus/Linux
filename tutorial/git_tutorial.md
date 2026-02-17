@@ -3,6 +3,10 @@
 ### The top most used Git Commands
 
 <details>
+  <summary>🪪 Set your Identity</summary>
+</details>
+
+<details>
   <summary>⬆️ Create a Local Repository and push it to the Server</summary>
   <br>
   <ul>
