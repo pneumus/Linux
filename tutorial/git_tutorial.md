@@ -165,8 +165,8 @@
 <details>
 <summary>🔄 Switching between Branches</summary>
 <ul>
-  <details>
   <br>
+  <details>
   <summary>The Happy Path</summary>
   
   <li>Before doing anything, check the Current Status</li>
