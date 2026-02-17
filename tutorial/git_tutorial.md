@@ -161,3 +161,8 @@
     
   </ul>
 </details>
+
+<details>
+  <summary>🔄 Switching between Branches</summary>
+
+</details>
