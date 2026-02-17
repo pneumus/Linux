@@ -259,7 +259,7 @@
     origin/SampleBranch2
     origin/main
 
-  <li>Switch to the Branch ( SampleBranch2 in the below Sample )</li>
+  <li>Switch to the Branch ( <b>SampleBranch2</b> in the below Sample )</li>
 
     git switch SampleBranch2
 
