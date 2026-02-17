@@ -286,7 +286,12 @@
   </details>
 
   <details>
-    <summary>😠 The Angry Path - The Sledgehammer or Panic Button</summary> 
+    <summary>😠 The Angry Path - The Sledgehammer, the Panic Button or the MIB Neuralyzer</summary> 
+
+  <li>If you made a "mess" and want to ignore all local changes</li>
+  <blockquote>
+    WARNING! All local changes will be lost.
+  </blockquote>
   </details>
 </ul>
 </details>
