@@ -166,6 +166,18 @@
 
 <details>
   <summary>🗒️ Adding & Removing & Editing Files</summary>
+  <ul>
+    <li>Adding a New File to the Repository</li>
+    <blockquote>
+      If you create a New File locally, 
+      <br>
+      Git will not "see" it
+      <br>
+      because it is not tracked yet,
+      <br>
+      therefore you need to add it to the Repo
+    </blockquote>
+  </ul>
 </details>
 
 <details>
