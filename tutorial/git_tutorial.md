@@ -66,9 +66,23 @@
 </details>
 
 <details>
-  <summary>Creating New Branches</summary>
+  <summary>Watching your Data</summary>
   <br>
   <ul>
-    <li></li>
+  <li>Download (Sync) all data from the Server</li>
+  <blockquote>Recommended: Start every day with a good old fetch!</blockquote>
+    
+    git fetch
+  
+  <li>List all Remote Branches</li>
+  
+    git branch -r
+
+  <li>List all Local Branches</li>
+
+    git branch
+
+  <blockquote>Note: The "default" Branch is highlighted with an asterisk</blockquote>
+    
   </ul>
 </details>
