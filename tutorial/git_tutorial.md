@@ -56,6 +56,7 @@
   <br>
   <ul>
     <!-- Cloning is the "other way around" when you start from the Server -->
+    [comment]: #
     <li>Login to GitHub / GitLab / BitBucket ...etc.</li>
     <li>Create a New Repository (and populate it)</li>
     <li>Clone the Repository</li>
