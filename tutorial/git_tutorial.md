@@ -188,6 +188,14 @@
     git add source.java
     git add config.xml
 
+  <li>Adding all Untracked Files ( NOT RECOMMENDED! )</li>
+  <blockquote>
+    This command is only useful if you created a brand new repository
+    <br>
+    or you know exactly what you're doing and want to add all Files in your folder to the Repo
+  </blockquote>
+    git add .
+  
   <li>Deleting Files</li>
   <blockquote>
     If you delete a file in your OS, it is not removed from the Repo yet
