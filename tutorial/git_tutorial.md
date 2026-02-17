@@ -165,18 +165,44 @@
 </details>
 
 <details>
-  <summary>🗒️ Adding & Removing & Editing Files</summary>
+  <summary>🗒️ Adding & Removing Files</summary>
   <ul>
-    <li>Adding a New File to the Repository</li>
-    <blockquote>
-      If you create a New File locally, 
-      <br>
-      Git will not "see" it
-      <br>
-      because it is not tracked yet,
-      <br>
-      therefore you need to add it to the Repo
-    </blockquote>
+  <li>Adding New File(s) to the Repository</li>
+  <blockquote>
+    If you create New File(s) locally, 
+    <br>
+    Git will not "see" it
+    <br>
+    because it is not tracked yet,
+    <br>
+    therefore you need to add it to the Repo
+  </blockquote>
+
+  <li>Adding a Single File to the Repo</li>
+    
+    git add file.txt
+
+  <li>Adding Multiple Files to the Repo</li>
+
+    git add source.java
+    git add config.xml
+
+  <li>Deleting Files</li>
+  <blockquote>If you delete a file in your OS, it is not removed from the Repo yet</blockquote>
+  
+    git rm config.xml
+
+  <li>Untracking Files</li>
+  <blockquote>The local copy stays untouched, but won't be part of the Repo anymore</blockquote>
+
+    git rm --cached config.xml
+  
+  <li>Committing only the Tracked Files</li>
+  <blockquote>
+    
+  </blockquote>
+  
+  <li></li>
   </ul>
 </details>
 
