@@ -286,7 +286,7 @@
   </details>
 
   <details>
-    <summary>😠 The Unhappy Path - 
+    <summary>😠 The Angry Path - The Sledgehammer or Panic Button</summary> 
   </details>
 </ul>
 </details>
