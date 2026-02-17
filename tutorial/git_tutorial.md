@@ -163,6 +163,25 @@
 </details>
 
 <details>
-  <summary>🔄 Switching between Branches</summary>
+<summary>🔄 Switching between Branches</summary>
+<ul>
+  <details>
+  <summary>The Happy Path</summary>
+  
+  <li>Before doing anything, check the Current Status</li>
+  
+    git status
+  
+  <li>The "happy response" should be:</li>
+  
+    On branch main
+    Your branch is up to date with 'origin/main'.    
+    nothing to commit, working tree clean
+  
+  <li>If nothing to commit, Update your Repo</li>
 
+    git fetch
+
+  </details>
+</ul>
 </details>
