@@ -17,6 +17,11 @@
   <li>Check your Config</li>
 
     git config --list
+
+  <blockquote>Sample Response:</blockquote>
+
+    user.name=John Smith
+    user.email=john.smith@mail.com
   
   </ul>
 </details>
