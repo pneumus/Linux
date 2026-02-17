@@ -188,7 +188,7 @@
     git add source.java
     git add config.xml
 
-  <li>Adding all Untracked Files ( NOT RECOMMENDED! )</li>
+  <li>Adding all Untracked Files ( <b>NOT RECOMMENDED!</b> )</li>
   
     git add .
   
