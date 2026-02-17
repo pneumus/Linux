@@ -29,7 +29,7 @@
 
 
 <details>
-  <summary>⬆️ Create a Local Repository and push it to the Server</summary>
+  <summary>⏫ Create a Local Repository and push it to the Server</summary>
   <br>
   <ul>
   <li>Create a Folder and Open it</li>
@@ -78,7 +78,7 @@
 </details>
 
 <details>
-  <summary>⬇️ Clone Remote Repository from the Server</summary>
+  <summary>⏬ Clone Remote Repository from the Server</summary>
   <br>
   <blockquote>Cloning is the "other way around" when you start from the Server</blockquote> 
   <ul>
