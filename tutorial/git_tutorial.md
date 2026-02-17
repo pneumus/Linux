@@ -42,7 +42,7 @@
   
   <li>Recommended: Rename your Branch to "main"</li>
   
-    git branch -M main
+    git branch -m main
   
   <li>Push the committed Files to the Server</li>
   
