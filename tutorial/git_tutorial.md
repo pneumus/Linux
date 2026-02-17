@@ -279,5 +279,9 @@
     git pull
   
   </details>
+
+  <details>
+    <summary>🙂 The Usual Path</summary>
+  </details>
 </ul>
 </details>
