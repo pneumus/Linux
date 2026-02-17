@@ -286,7 +286,7 @@
   </details>
 
   <details>
-    <summary>😠 The Angry Path - The Sledgehammer, the MIB Neuralyzer</summary> 
+    <summary>😠 The Angry Path - The Sledgehammer / MIB Neuralyzer</summary> 
     <br>
     <li>If you made a great "mess" and you want to delete the whole Repo to clone it again, do this instead:</li>
 
