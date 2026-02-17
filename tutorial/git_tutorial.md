@@ -4,9 +4,9 @@
 
 <details>
   <summary>Create a Local Repository</summary>
+  <br>
   <ul>
   <li>Create a Folder</li>
-  <br>
   <li>Execute this command in the folder:</li>
     
   ```
