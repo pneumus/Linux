@@ -100,7 +100,7 @@
 
     git branch
 
-  <blockquote>Note: The "default" Branch is highlighted with an asterisk. Sample:</blockquote>
+  <blockquote>Note: The "default" Branch is highlighted with an asterisk. Sample Response:</blockquote>
 
     SampleBranch1
     SampleBranch2
@@ -113,7 +113,7 @@
   <blockquote>
     The Commit History will show you the local HEAD state as well ( HEAD -> main ), See: git branch: *main
     <br>
-    
+    and it will also show you Dates and Authors of each Commit, as well as the "hash" ( long alphanumeric ID )
   </blockquote>
     
   </ul>
