@@ -121,9 +121,15 @@
     git log
 
   <blockquote>
-    The Commit History will show you the local HEAD state as well ( HEAD -> main ), See: git branch: *main
-    <br>
-    and it will also show you Dates and Authors of each Commit, as well as the "hash" ( long alphanumeric ID )
+    The Commit History will show you 
+    <ul>
+      <li>the "Commit Hash" ( long alphanumeric ID )</li>
+      <li>the local HEAD state as well ( HEAD -> main ), See the Output of: git branch</li>
+      <li>all other local branches</li>
+      <li>Dates and Authors of each Commit</li>
+    </ul>
+  
+    
   </blockquote>
     
   </ul>
