@@ -6,8 +6,13 @@
   <summary>Create a Local Repository</summary>
   <br>
   <ul>
-  <li>Create a Folder</li>
-  <li>Execute this command in the folder:</li>
+  <li>Create a Folder and Open it</li>
+
+  ```
+  mkdir repo
+  cd repo
+  ```  
+  <li>Initialize Git Repository</li>
     
   ```
   git init
