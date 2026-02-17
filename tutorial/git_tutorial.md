@@ -4,6 +4,21 @@
 
 <details>
   <summary>🪪 Set your Identity</summary>
+  <br>
+  <ul>
+  <li>Set your Name ( Visible to Collaborators )</li>
+  
+    git config --global user.name "John Smith"
+  
+  <li>Set your Contact ( Visible to Collaborators )</li>
+
+    git config --global user.email "john.smith@mail.com"
+
+  <li>Check your Config</li>
+
+    git config --list
+  
+  </ul>
 </details>
 
 <details>
