@@ -90,7 +90,7 @@
 </details>
 
 <details>
-  <summary>👁️ Watching your Repository</summary>
+  <summary>👁️ Watching your Repository - Aka "lookie lookie"</summary>
   <br>
   <ul>
   <li>See your Current State</li>
