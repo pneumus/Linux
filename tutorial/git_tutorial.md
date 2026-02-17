@@ -24,9 +24,6 @@
   <ul>
     <li>Add all full Folder Content to the Repo</li>
 
-    ```
     git add .
-    ```
-    
   </ul>
 </details>
