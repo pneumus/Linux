@@ -63,6 +63,10 @@
   <ul>
     <!-- Cloning is the "other way around" when you start from the Server -->
     <li>Login to GitHub / GitLab / BitBucket ...etc.</li>
-    <li>Create a New Repository</li>
+    <li>Create a New Repository (and populate it)</li>
+    <li>Clone the Repository</li>
+
+      git clone https://github.com/your-username/your-repo-name.git
+    
   </ul>
 </details>
