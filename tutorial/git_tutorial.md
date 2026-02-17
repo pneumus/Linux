@@ -7,8 +7,8 @@
   <ul>
   <li>Create a Folder</li>
   <br>
-  - [x] Execute this command in the folder:
-  
+  <li>Execute this command in the folder:</li>
+    
   ```
   git init
   ```
