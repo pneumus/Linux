@@ -62,9 +62,7 @@
   <br>
   <ul>
     <!-- Cloning is the "other way around" when you start from the Server -->
-    <ul>
-      <li>Login to GitHub / GitLab / BitBucket ...etc.</li>
-      <li>Create a New Repository</li>
-    </ul>
+    <li>Login to GitHub / GitLab / BitBucket ...etc.</li>
+    <li>Create a New Repository</li>
   </ul>
 </details>
