@@ -163,6 +163,10 @@
 </details>
 
 <details>
+  <summary>🗒️ Adding & Removing & Editing Files</summary>
+</details>
+
+<details>
 <summary>🔄 Switching between Branches</summary>
 <ul>
   <br>
