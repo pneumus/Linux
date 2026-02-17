@@ -123,12 +123,11 @@
   <blockquote>
     The Commit History will show you 
     <ul>
-      <li>the "Commit Hash" ( long alphanumeric ID )</li>
-      <li>the local HEAD state as well ( HEAD -> main ), See the Output of: git branch</li>
-      <li>all other local branches</li>
-      <li>Dates and Authors of each Commit</li>
+      <li>The "Commit Hash" ( long alphanumeric ID )</li>
+      <li>The local HEAD state as well ( HEAD -> main ), See the Output of: git branch</li>
+      <li>All other local branches</li>
+      <li>Dates and Authors of each Commit - Who Commited What and When</li>
     </ul>
-  
     
   </blockquote>
     
