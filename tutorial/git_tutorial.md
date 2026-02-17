@@ -70,7 +70,7 @@
   <br>
   <ul>
   <li>Download (Sync) all data from the Server</li>
-  <blockquote>Recommended: Start every day with a good old fetch!</blockquote>
+  <blockquote>Recommended: Start every day with a good fresh fetching!</blockquote>
     
     git fetch
   
