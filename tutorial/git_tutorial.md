@@ -183,6 +183,21 @@
 
     git fetch
 
+  <li>List Remote Branches</li>
+
+    git branch -r
+
+  <li>Note the Name of the Branch you want to switch to</li>
+
+    origin/HEAD -> origin/main
+    origin/SampleBranch1
+    origin/SampleBranch2
+    origin/main
+
+  <li>Switch to the Branch ( SampleBranch2 in the below Sample )</li>
+
+    git switch SampleBranch2
+  
   </details>
 </ul>
 </details>
