@@ -263,8 +263,14 @@
 
     git switch SampleBranch2
 
-  <blockquote>Note: We don't use git checkout since August 2019 to switch between branches. It's safer!</blockquote>
-  
+  <blockquote>
+    Note: We don't use <b>git checkout</b> since August 2019 
+    <br>
+    to switch between branches. 
+    <br>
+    Switch is safer!
+  </blockquote>
+
   <li>Update your Local Branch with any New Commits from the Server</li>
 
     git pull
