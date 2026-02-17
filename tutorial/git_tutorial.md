@@ -34,7 +34,6 @@
     <ul>
       <li>Login to GitHub / GitLab / BitBucket ...etc.</li>
       <li>Create an Empty Repository</li>
-      ##### Note: Do not initialize the Repo with ReadMe / .gitignore ...etc. it must be empty!  
     </ul>
     
   
