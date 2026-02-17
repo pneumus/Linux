@@ -49,7 +49,7 @@
   <li>Add full Folder Content to the Repo</li>
   
     git add .
-  
+
   <li>Initial commit with a message</li>
   
     git commit -m "Initial Commit Message"
