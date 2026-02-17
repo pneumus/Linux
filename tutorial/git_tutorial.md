@@ -88,7 +88,7 @@
     
     git fetch
 
-  <blockquote>Recommended: Start every day with a good fresh fetching!</blockquote>
+  <blockquote>Recommended: Start every day with a good fresh fetching! - It's Safe. Nothing can go Wrong!</blockquote>
   <li>List all Remote Branches</li>
   
     git branch -r
