@@ -26,6 +26,8 @@
   </ul>
 </details>
 
+
+
 <details>
   <summary>⬆️ Create a Local Repository and push it to the Server</summary>
   <br>
@@ -167,7 +169,7 @@
 </details>
 
 <details>
-<summary>🔄 Switching between Branches</summary>
+<summary>🔀 Switching between Branches</summary>
 <ul>
   <br>
   <details>
