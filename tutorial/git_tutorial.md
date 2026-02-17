@@ -66,7 +66,7 @@
 </details>
 
 <details>
-  <summary>Watching your Data</summary>
+  <summary>👁️ Watching your Repository</summary>
   <br>
   <ul>
   <li>See your Current State</li>
