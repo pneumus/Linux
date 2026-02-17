@@ -46,5 +46,13 @@
   <li>Link the Local Repo to the Remote Repo</li>
       
       git remote add origin https://github.com/your-username/your-repo-name.git
+
+  <li>Recommended: Rename your Branch to "main"</li>
+
+      git branch -M main
+
+  <li>Push the committed Files to the Server</li>
+
+      git push -u origin main
       
 </details>
