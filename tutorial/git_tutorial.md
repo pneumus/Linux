@@ -72,6 +72,12 @@
   <li>See your Current State</li>
 
     git status
+  <blockquote>Note: You can see your Current Branch, and also if there is something to Commit. Sample:</blockquote>
+    
+    On branch main
+    Your branch is up to date with 'origin/main'.    
+    nothing to commit, working tree clean
+
 
   <li>Download (Sync) all data from the Server</li>
   <br>
