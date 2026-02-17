@@ -100,7 +100,11 @@
 
     git branch
 
-  <blockquote>Note: The "default" Branch is highlighted with an asterisk</blockquote>
-    
+  <blockquote>Note: The "default" Branch is highlighted with an asterisk. Sample:</blockquote>
+
+    SampleBranch1
+    SampleBranch2
+    * main
+
   </ul>
 </details>
