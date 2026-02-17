@@ -7,16 +7,13 @@
   <br>
   <ul>
   <li>Create a Folder and Open it</li>
-
-  ```
-  mkdir repo
-  cd repo
-  ```  
+    
+    mkdir repo
+    cd repo
+    
   <li>Initialize Git Repository</li>
     
-  ```
-  git init
-  ```
+    git init
 
   <ul>
 </details>
