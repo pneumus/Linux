@@ -167,10 +167,8 @@
 <ul>
   <br>
   <details>
-
-  <br>
   <summary>The Happy Path</summary>
-  
+  <br>  
   <li>Before doing anything, check the Current Status</li>
   
     git status
