@@ -286,12 +286,20 @@
   </details>
 
   <details>
-    <summary>😠 The Angry Path - The Sledgehammer, the Panic Button or the MIB Neuralyzer</summary> 
+    <summary>😠 The Angry Path - The Sledgehammer, the MIB Neuralyzer</summary> 
 
-  <li>If you made a "mess" and want to ignore all local changes</li>
+  <li>If you made a great "mess" and you want to delete the whole Repo to clone it again, do this instead:</li>
   <blockquote>
-    WARNING! All local changes will be lost.
+    WARNING! 
+    <br>
+    All uncommitted local changes will be lost.
+    <br>
+    And your branch will be restored to the last commit.
+    <br>
+    Even <b>git reflog</b> can not restore the lost files - no way back.
   </blockquote>
+
+    git reset --hard HEAD
   </details>
 </ul>
 </details>
