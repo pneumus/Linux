@@ -89,6 +89,13 @@
   
     git branch -r
 
+  <blockquote>Note: "origin" means it is a remote branch. The remote "HEAD" is the default branch. Sample:</blockquote>
+    
+    origin/HEAD -> origin/main
+    origin/SampleBranch1
+    origin/SampleBranch2
+    origin/main
+  
   <li>List all Local Branches</li>
 
     git branch
