@@ -167,7 +167,7 @@
 <ul>
   <br>
   <details>
-  <summary>The Happy Path</summary>
+  <summary>🥰 The Happy Path</summary>
   <br>  
   <li>Before doing anything, check the Current Status</li>
   
