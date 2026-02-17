@@ -198,9 +198,11 @@
 
     git rm --cached config.xml
   
-  <li>Committing only the Tracked Files</li>
+  <li>Committing the Tracked Files - Untracked Files are ignored</li>
   <blockquote>
-    
+    After Adding / Editing / Deleting Files from the Repo
+    <br>
+    Committing the Files is Necessary
   </blockquote>
   
   <li></li>
