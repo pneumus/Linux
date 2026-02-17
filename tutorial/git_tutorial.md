@@ -4,14 +4,15 @@
 
 <details>
   <summary>Create a Local Repository</summary>
-  <br>
-  - [ ] Create a Folder
+  <ul>
+  <li>Create a Folder</li>
   <br>
   - [x] Execute this command in the folder:
   
   ```
   git init
   ```
+  <ul>
 </details>
 
 <details>
