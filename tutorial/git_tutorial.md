@@ -22,6 +22,10 @@
   <summary>Push Local Repo to Server</summary>
   <br>
   <ul>
+  <li>Add some Source Files</li>
+
+    touch source.c
+    
   <li>Add full Folder Content to the Repo</li>
 
     git add .
