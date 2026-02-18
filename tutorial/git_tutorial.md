@@ -62,7 +62,7 @@
   <br>
   <li>Link the Local Repo to the Remote Repo</li>
   
-    git remote add origin https://github.com/your-username/your-repo-name.git
+    git remote add origin git@github.com/your-username/your-repo-name.git
   
   <li>Recommended: Rename your Branch to "main"</li>
   
@@ -84,7 +84,7 @@
     <li>Create a New Repository (and populate it)</li>
     <li>Clone the Repository</li>
 
-      git clone https://github.com/your-username/your-repo-name.git
+      git clone git@github.com/your-username/your-repo-name.git
     
   </ul>
 </details>
