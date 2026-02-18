@@ -312,6 +312,35 @@
     because you have untracked or uncommitted changes
   </li>
 
+  <li>
+    If the changes are okay, and your newly implemented feature is ready and tested
+    <br>
+    you can simply <b>commit</b> all changes - ignoring the untracked files:
+  </li>
+
+    git commit -am "My Commit Message"
+
+  <li>
+    If the changes are not okay, and the feature is not ready yet
+    <br>
+    but you want to look into another branch
+    <br>
+    you can <b>stash</b> the changes temporarily:
+  </li>
+
+    git stash
+
+  <li>And pull the version without your changes:</li>
+
+    git pull
+
+  <li>And <b>unstash</b> them later, you are ready to continue the work:</li>
+
+    git stash pop
+
+  <li>Alternatively you can later clear your stash later:</li>
+
+    git stash clear
   
   </ul>
   </details>
