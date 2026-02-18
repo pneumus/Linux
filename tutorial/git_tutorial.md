@@ -283,6 +283,19 @@
 
   <details>
     <summary>🙂 The Usual Path - Committing or Stashing</summary>
+  <ul>
+    <li>If you execute <b>git status</b> 
+      <br>
+      and your Status Message is not "clean" 
+      <br>
+      because your local Repo is not "in sync" 
+      <br>
+      with your Remote Repo
+    </li>
+
+      
+      
+  </ul>
   </details>
 
   <details>
