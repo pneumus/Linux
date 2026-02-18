@@ -283,6 +283,7 @@
 
   <details>
     <summary>🙂 The Usual Path - Committing or Stashing</summary>
+  <br>
   <ul>
     <li>If you execute <b>git status</b> 
       <br>
