@@ -287,11 +287,7 @@
   <ul>
     <li>If you execute <b>git status</b> 
       <br>
-      and your Status Message is not "clean" 
-      <br>
-      because your local Repo is not "in sync" 
-      <br>
-      with your Remote Repo:
+      and your Status Message is not "clean": 
     </li>
 
     On branch main
@@ -310,7 +306,13 @@
     
     no changes added to commit (use "git add" and/or "git commit -a")
 
-      
+  <li>
+    Your local Repo is not "in sync" 
+    <br>
+    with your Remote Repo:
+  </li>
+
+  
   </ul>
   </details>
 
