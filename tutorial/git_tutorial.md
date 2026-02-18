@@ -307,9 +307,9 @@
     no changes added to commit (use "git add" and/or "git commit -a")
 
   <li>
-    Your local Repo is not "in sync" 
+    You can assume that your Local Repo is not "in sync" with your Remote Repo
     <br>
-    with your Remote Repo:
+    because you have untracked or uncommitted changes
   </li>
 
   
