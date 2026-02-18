@@ -323,22 +323,28 @@
   <li>
     If the changes are not okay, and the feature is not ready yet
     <br>
-    but you want to look into another branch
+    but you want to work on something else
     <br>
     you can <b>stash</b> the changes temporarily:
   </li>
 
     git stash
 
-  <li>And pull the version without your changes:</li>
+  <li>And pull the version of the branch without your changes:</li>
 
     git pull
 
-  <li>And <b>unstash</b> them later, you are ready to continue the work:</li>
+  <li>You can also stash it if you want to switch to another branch, but not lose your work</li>
+
+    git stash
+    git switch <another_branch>
+    git switch <original_branch>
+
+  <li>Later you can <b>unstash</b> the changes, when you are ready to continue the work:</li>
 
     git stash pop
 
-  <li>Alternatively you can later clear your stash later:</li>
+  <li>Alternatively you can clear your stash later ( this will delete the stashed files )</li>
 
     git stash clear
   
