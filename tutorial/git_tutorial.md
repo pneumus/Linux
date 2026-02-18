@@ -344,7 +344,7 @@
 
     git stash pop
 
-  <li>Alternatively you can clear your stash later ( this will delete the stashed files )</li>
+  <li>Alternatively you can clear your stash later ( this will delete <b>changes</b> of the stashed files )</li>
 
     git stash clear
   
