@@ -1,7 +1,7 @@
 # Basic Linux Commands
 
 <details>
-	<summary style="margin-left: 25px;"📂 File & Directory Management </summary>
+	<summary style="margin-left: 25px;">📂 File & Directory Management </summary>
 	<br>
 	<details>
 		<summary><code>ls -a</code></summary>
