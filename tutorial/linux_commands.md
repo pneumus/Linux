@@ -5,6 +5,7 @@
     <br>
     <details>
         <summary><code>ls -a</code></summary>
+        <br>
         <ul style="margin-left: 20px;">
             <li>Displays all files, including hidden ones.</li>
         </ul>
