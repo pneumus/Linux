@@ -4,9 +4,9 @@
 	<summary>📂 File & Directory Management </summary>
 	<br>
 	<details>
-		<summary>ls -a</summary>
+		<summary><code>ls -a</code></summary>
 		<ui>
-			<li></li>
+			&nbsp;<li></li>
 		</ul>
 	</details>
 	<details>
