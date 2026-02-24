@@ -1,5 +1,35 @@
 # Basic Linux Commands
 
 <details>
-	<summary>📂 File and Directory Management </summary>
+	<summary>📂 File & Directory Management </summary>
+	<details>
+		<summary>ls -a</summary>
+		<ui>
+			<li></li>
+		</ul>
+	</details>
+	<details>
+		<summary>ls -l</summary>
+		<ui>
+			<li></li>
+		</ul>
+	</details>
+	<details>
+		<summary>ls -h</summary>
+		<ui>
+			<li></li>
+		</ul>
+	</details>
+	<details>
+		<summary>ls --color</summary>
+		<ui>
+			<li></li>
+		</ul>
+	</details>
+	<details>
+		<summary>ls -R</summary>
+		<ui>
+			<li></li>
+		</ul>
+	</details>
 </details>
