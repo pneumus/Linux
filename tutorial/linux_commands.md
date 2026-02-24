@@ -6,7 +6,7 @@
 	<details>
 		<summary><code>ls -a</code></summary>
 		<ui>
-			&nbsp;<li></li>
+		<li>&nbsp;&nbsp;&nbsp;&nbsp;Hello</li>
 		</ul>
 	</details>
 	<details>
