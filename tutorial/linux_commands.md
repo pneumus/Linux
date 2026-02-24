@@ -12,12 +12,14 @@
     </details>
     <details>
         <summary>ls -l</summary>
+        <br>
         <ul style="margin-left: 20px;">
             <li>Shows long format listing (permissions, size, etc.).</li>
         </ul>
     </details>
     <details>
         <summary>ls -h</summary>
+        <br>
         <ul style="margin-left: 20px;">
             <li>Human-readable sizes (K, M, G) used with -l.</li>
         </ul>
