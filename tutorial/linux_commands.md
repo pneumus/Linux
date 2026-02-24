@@ -2,6 +2,7 @@
 
 <details>
 	<summary>📂 File & Directory Management </summary>
+	<br>
 	<details>
 		<summary>ls -a</summary>
 		<ui>
