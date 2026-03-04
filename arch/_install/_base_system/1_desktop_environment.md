@@ -6,45 +6,9 @@ Install Basic Tools
 
     sudo pacman -S --noconfirm usbutils git base-devel openssh wget vi less cmake rsync reflector
 
-Network Configuration for the Wifi
-
-    # Configure Reflector
-    sudo pacman -Sy --noconfirm reflector
-    sudo reflector --country Switzerland --latest 10 --sort rate --save /etc/pacman.d/mirrorlist
-    sudo systemctl enable --now reflector.timer
-    
-    # Disable ECN and IPv6
-    CONF_FILE="/etc/sysctl.d/99-custom.conf"
-    sudo mkdir -p /etc/sysctl.d/
-    sudo bash -c "cat <<EOF > $CONF_FILE
-    net.ipv4.tcp_ecn = 0
-    net.ipv6.conf.all.disable_ipv6 = 1
-    net.ipv6.conf.default.disable_ipv6 = 1
-    net.ipv6.conf.lo.disable_ipv6 = 1
-    EOF"
-    if [ $? -eq 0 ]; then
-    echo "Successfully updated $CONF_FILE"
-    sudo sysctl --system
-    else
-        echo "Failed to write to $CONF_FILE"
-    fi
-    
-    # Disable Power Save
-    UDEV_FILE="/etc/udev/rules.d/81-wifi-powersave.rules"
-    sudo bash -c "cat <<EOF > $UDEV_FILE
-    ACTION==\"add\", SUBSYSTEM==\"net\", KERNEL==\"wlan*\", RUN+=\"/usr/bin/iw dev %k set power_save off\"
-    EOF"
-    sudo udevadm control --reload-rules
-    sudo udevadm trigger
-
 Install Desktop Apps
 
-    sudo pacman -S --noconfirm dolphin firefox flatpak discover kscreen gwenview gedit kinfocenter spectacle ktorrent p7zip unrar ark
-    
-Install and Configure Uncomplicated Firewall
-
-    sudo pacman -S ufw
-    sudo systemctl enable --now ufw
+    sudo pacman -S --noconfirm dolphin firefox flatpak discover kscreen gwenview gedit kinfocenter spectacle ktorrent p7zip unrar ark vlc vlc-plugins-all
 
 Install Partitioning Tools
 
@@ -55,15 +19,20 @@ Setup Bluetooth
     sudo pacman -S --noconfirm bluez bluez-utils bluedevil
     sudo systemctl enable --now bluetooth
 
-Install Qt5-Webkit
-
-    sudo pacman -U --noconfirm  https://archive.archlinux.org/packages/q/qt5-webkit/qt5-webkit-5.212.0alpha4-18-x86_64.pkg.tar.zst
-
 Add Hotkey for Screenshot
 
     1. Open Spectacle
     2. Select: Configure -> Shortcuts
     3. Add Win+Shift+S as Capture Rectangular Region
+
+Install and Configure Uncomplicated Firewall
+
+    sudo pacman -S ufw
+    sudo systemctl enable --now ufw
+
+Install Qt5-Webkit
+
+    sudo pacman -U --noconfirm  https://archive.archlinux.org/packages/q/qt5-webkit/qt5-webkit-5.212.0alpha4-18-x86_64.pkg.tar.zst
 
 Install yay Package Manager
 
