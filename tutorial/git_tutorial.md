@@ -62,7 +62,7 @@
   <br>
   <li>Link the Local Repo to the Remote Repo</li>
   
-    git remote add origin git@github.com/your-username/your-repo-name.git
+    git remote add origin git@github.com:your-username/your-repo-name.git
   
   <li>Recommended: Rename your Branch to "main"</li>
   
@@ -84,7 +84,7 @@
     <li>Create a New Repository (and populate it)</li>
     <li>Clone the Repository</li>
 
-      git clone git@github.com/your-username/your-repo-name.git
+      git clone git@github.com:your-username/your-repo-name.git
     
   </ul>
 </details>
@@ -225,6 +225,7 @@
   
   <li>Finally: You can push to changes to the Server</li>
 
+    git push -u origin <branch_name>
     git push
   
   </ul>
@@ -336,7 +337,7 @@
 
   <li>You can also stash it if you want to switch to another branch, but not lose your work</li>
 
-    git stash
+    git stash -u
     git switch <another_branch>
     git switch <original_branch>
 
