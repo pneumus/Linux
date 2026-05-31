@@ -257,7 +257,7 @@
   </details>
   
   <details>
-  <summary>🥰 The Happy Path - Nothing to Commit</summary>
+  <summary>Switch Branch: 🥰 The Happy Path - Nothing to Commit</summary>
   <br>  
   <ul>
   <li>Before doing anything, check the Current Status</li>
@@ -306,7 +306,7 @@
   </details>
 
   <details>
-    <summary>🙂 The Usual Path - Committing or Stashing</summary>
+    <summary>Switch Branch: 🙂 The Usual Path - Committing or Stashing</summary>
   <br>
   <ul>
     <li>If you execute <b>git status</b> 
@@ -376,7 +376,7 @@
   </details>
 
   <details>
-    <summary>😠 The Angry Path - The Sledgehammer / MIB Neuralyzer</summary> 
+    <summary>Switch Branch: 😠 The Angry Path - The Sledgehammer / MIB Neuralyzer</summary> 
   <br>
   <ul>
   <li>If you made a "great mess" and you want to delete the whole Repo to clone it again, do this instead:</li>
