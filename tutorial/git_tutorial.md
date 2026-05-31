@@ -259,6 +259,7 @@
   <details>
   <summary>🥰 The Happy Path - Nothing to Commit</summary>
   <br>  
+  <ul>
   <li>Before doing anything, check the Current Status</li>
   
     git status
@@ -301,6 +302,7 @@
     git pull
 
   <li>Congratz! You have successfully switched to a different branch and your local repo is up-to-date! 😺</li>
+  </ul>
   </details>
 
   <details>
