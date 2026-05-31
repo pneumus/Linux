@@ -233,7 +233,7 @@
 </details>
 
 <details>
-<summary>🔀 Switching between Branches</summary>
+<summary>🔀 Handling Branches</summary>
 <ul>
   <br>
   <details>
