@@ -237,6 +237,24 @@
 <ul>
   <br>
   <details>
+  <summary>🆕 Create a New Branch</summary>
+  <br>
+  <li>Switch to main and pull</li>
+  
+    git switch main
+    git pull
+
+  <li>Create the new branch</li>
+  
+    git switch -c NewBranch
+
+  <li>Setup Remote Tracking for the First Push</li>
+
+    git push -u origin NewBranch
+  
+  </details>
+  
+  <details>
   <summary>🥰 The Happy Path - Nothing to Commit</summary>
   <br>  
   <li>Before doing anything, check the Current Status</li>
