@@ -147,6 +147,7 @@
   <li>See Commit History - Your Time Machine</li>
 
     git log
+    git log --stat
 
   <blockquote>
     The Commit History will show you 
