@@ -239,6 +239,7 @@
   <details>
   <summary>🆕 Create a New Branch</summary>
   <br>
+  <ul>
   <li>Switch to main and pull</li>
   
     git switch main
@@ -251,7 +252,8 @@
   <li>Setup Remote Tracking for the First Push</li>
 
     git push -u origin NewBranch
-  
+
+  </ul>
   </details>
   
   <details>
