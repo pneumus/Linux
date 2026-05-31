@@ -378,6 +378,7 @@
   <details>
     <summary>😠 The Angry Path - The Sledgehammer / MIB Neuralyzer</summary> 
   <br>
+  <ul>
   <li>If you made a "great mess" and you want to delete the whole Repo to clone it again, do this instead:</li>
 
   <blockquote>
@@ -391,6 +392,7 @@
   </blockquote>
 
     git reset --hard HEAD
+  </ul>
   </details>
 </ul>
 </details>
