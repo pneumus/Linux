@@ -376,7 +376,7 @@
   </details>
 
   <details>
-    <summary>Switch Branch: 😠 The Angry Path - The Sledgehammer / MIB Neuralyzer</summary> 
+  <summary>Switch Branch: 😠 The Angry Path - The Sledgehammer / MIB Neuralyzer</summary> 
   <br>
   <ul>
   <li>If you made a "great mess" and you want to delete the whole Repo to clone it again, do this instead:</li>
@@ -392,7 +392,28 @@
   </blockquote>
 
     git reset --hard HEAD
+    
   </ul>
+  </details>
+
+  <details>
+  <summary>🗑️❌ Deleting a Branch</summary>
+  <br>
+  <ul>
+  <li>Switch to a different Branch ( i.e. main )</li>
+      
+      git switch 
+      
+  <li>Delete Local Branch</li>
+
+    git branch -D <branch_name>
+
+  <li>Delete Remote Branch</li>
+
+    git push origin --delete <branch_name>
+  
+  </ul>
+    
   </details>
 </ul>
 </details>
