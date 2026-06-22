@@ -25,6 +25,17 @@ Add Hotkey for Screenshot
     2. Select: Configure -> Shortcuts
     3. Add Win+Shift+S as Capture Rectangular Region
 
+Network Optimization
+
+    # Lower Wifi MTU
+    sudo ip link set dev wlan0 mtu 1452
+
+    # Wifi Power Save OFF
+    sudo iw dev wlan0 set power_save off
+
+    # Disable IPv6
+    sudo sysctl -w net.ipv6.conf.wlan0.disable_ipv6=1
+
 Install and Configure Uncomplicated Firewall
 
     sudo pacman -S ufw
