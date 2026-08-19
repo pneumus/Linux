@@ -1,0 +1,30 @@
+import ctypes
+import time
+
+# Constants for Windows API
+ES_CONTINUOUS = 0x80000000
+ES_SYSTEM_REQUIRED = 0x00000001
+ES_DISPLAY_REQUIRED = 0x00000002  # Optional: keeps the monitor awake too
+
+
+def prevent_sleep():
+    # Tells Windows to keep the system running
+    ctypes.windll.kernel32.SetThreadExecutionState(
+        ES_CONTINUOUS | ES_SYSTEM_REQUIRED | ES_DISPLAY_REQUIRED
+    )
+    print("PC sleep disabled via Windows API. Press Ctrl+C to exit.")
+
+
+def allow_sleep():
+    # Reverts back to normal power state
+    ctypes.windll.kernel32.SetThreadExecutionState(ES_CONTINUOUS)
+    print("Power state restored.")
+
+
+if __name__ == "__main__":
+    prevent_sleep()
+    try:
+        while True:
+            time.sleep(60)
+    except KeyboardInterrupt:
+        allow_sleep()
