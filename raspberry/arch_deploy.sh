@@ -135,15 +135,17 @@ partitioning()
 	print_color "Create MS-DOS MBR..." "blue"
 	sudo parted -s ${DEVICE} mklabel msdos > /dev/null 2>&1
 	print_color "Partitioning..." "blue"
-	sudo parted -s ${DEVICE} mkpart primary fat32 1MiB 513MiB > /dev/null 2>&1
+	
+        sudo parted -s ${DEVICE} mkpart primary fat32 1MiB 513MiB > /dev/null 2>&1
 	sudo parted -s ${DEVICE} mkpart primary ext4 513MiB 100% > /dev/null 2>&1
 }
 
 format_partitions()
 {
+        p=$(( ${#DEVICE} -gt 3 ? "p" : "" ))
 	print_color "Formatting Partitions..." "blue"
-	sudo mkfs.vfat -F32 ${DEVICE}1 > /dev/null 2>&1
-	sudo mkfs.ext4 -F ${DEVICE}2 > /dev/null 2>&1
+	sudo mkfs.vfat -F32 ${DEVICE}${p}1 > /dev/null 2>&1
+	sudo mkfs.ext4 -F ${DEVICE}${p}2 > /dev/null 2>&1
 }
 
 mount_partitions()
@@ -155,8 +157,9 @@ mount_partitions()
 		sudo mkdir -p "$path"
 	done
 	print_color "Mounting Partitions..." "blue"
-	sudo mount -t vfat ${DEVICE}1 $boot
-	sudo mount ${DEVICE}2 $root
+	p=$(( ${#DEVICE} -gt 3 ? "p" : "" ))
+        sudo mount -t vfat ${DEVICE}${p}1 $boot
+	sudo mount ${DEVICE}${p}2 $root
 }
 
 prep_device()
